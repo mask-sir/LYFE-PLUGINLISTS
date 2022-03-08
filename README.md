@@ -23,12 +23,12 @@
 
 
 ᴄʟɪᴄᴋ ᴡᴀ ʟᴏɢᴏ ᴛᴏ ᴊᴏɪɴ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 👇 
-<br> [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/Ear1cUkcdvW4idBD9jqmyj)
+<br> [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/DlKiZmfe0R7JTZG9w0okrW)
   <div align="center">
        
 <h2 align="center">➥ OFFICIAL PLUGINS</h1>
 
-<h4 align="center">  ⦼ send plugin </h1>
+ <h4 align="center">  ⦼ send plugin </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/farhan-dqz">farhan-dqz</a>
 
