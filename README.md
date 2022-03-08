@@ -29,19 +29,7 @@
 ________________________________________
 ________________________________________
 
- <h4 align="center">  ⦼  </h1>
-
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/farhan-dqz">farhan-dqz</a>
-
-
-```js
-https://gist.githubusercontent.com/farhan-dqz/67ba8fed33aa4f36083cf94788aed31d/raw
-```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : Basic version of forward <br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
-<br />
-<br />
-
+ 
 <h4 align="center">  ⦼ m-forward with fake preview status (.mforward) </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/lyfe00011">lyfe00011</a>
