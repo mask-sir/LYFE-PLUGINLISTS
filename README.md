@@ -2,7 +2,7 @@
 <div align="center">
   <img align="center" alt="Coding" width="500" src="https://media2.giphy.com/media/oxjEQAAERDpRGp51D3/giphy.gif?cid=6c09b9526682283d53192f0e4f5ea1fc0b0caba1f016f472&rid=giphy.gif&ct=g"> <br /> 
 <br /> 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=lyfe-plugin-list&label=Visitors%20count&color=10d9c3&style=plastic" alt="lyfe-plugin-list" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=LYFE-PLUGINLISTS&label=Visitors%20count&color=10d9c3&style=plastic" alt="lyfe-plugin-list" /> </p>
 
 
 <h3 align="center">  ➠ ʜᴏᴡ ᴛᴏ ɪɴsᴛᴀʟʟ ᴘʟᴜɢɪɴ
@@ -30,20 +30,18 @@ ________________________________________
 ________________________________________
 
  
-<h4 align="center">  ⦼ m-forward with fake preview status (.mforward) </h1>
+<h4 align="center">  ᐉ WAME</h1>
 
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/lyfe00011">lyfe00011</a>
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="www.github.com/mask-sir">MASK SER</a>
+
 
 ```js
-https://gist.github.com/lyfe00011/467a2e45f4e36b8bb4782ee8da573ca0
+https://gist.github.com/mask-sir/e6f02413f74453ad0ae31c5b7d965d7b/raw
 ```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : improved version of forward <br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br /> 
-
-⊡ Need edit this plugin for make customasable 
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : Gets the invite link of the replied person <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
 <br />
 <br />
-
 
 ## ▣ Need to add your plugin here?
 ## [![Typing SVG align="center"](https://readme-typing-svg.herokuapp.com?font=Staatliches&color=0A0089&size=20&width=350&lines=We+know+there+are+a+lot+of+plugin;didnt+include+here+...;If+you+created+a+use+full+plugin;and+didnt+here+???;Contact+us+to+add+here+🙂;After+checking+the+use+and+scan;We+given+a+whatsapp+link+above;join+there+and+contact+us;If+there+is+a+problem+in+any+plugin;there+please+contact+us+......)](https://git.io/typing-svg) <br/>
@@ -57,7 +55,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br />
 
 #### ᴄᴏɴᴅʀɪʙᴜᴛᴇ ᴛᴏ ❁ <br />
 『 ʟʏғᴇ sɪʀ 』 <br />
-『 ғᴀʀʜᴀɴ sɪʀ 』 <br />
+『 MASK SER 』 <br />
 『 sʜᴀᴅᴏᴡ 』 <br />
 <br />
  ©Lyfe 00011 USER BOT
