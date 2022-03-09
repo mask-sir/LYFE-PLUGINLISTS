@@ -5,7 +5,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=LYFE-PLUGINLISTS&label=Visitors%20count&color=10d9c3&style=plastic" alt="lyfe-plugin-list" /> </p>
 
 
-<h3 align="center">  ➠ ʜᴏᴡ ᴛᴏ ɪɴsᴛᴀʟʟ ᴘʟᴜɢɪɴ
+<h2 align="center">  ➠ ʜᴏᴡ ᴛᴏ ɪɴsᴛᴀʟʟ ᴘʟᴜɢɪɴ
 </h1>
 
 
@@ -25,7 +25,7 @@
 <br> [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/DlKiZmfe0R7JTZG9w0okrW)
   <div align="center">
        
-<h2 align="center">➥ OFFICIAL PLUGINS</h1>
+<h4 align="center">➥ OFFICIAL PLUGINS</h1>
 __________________________________
 __________________________________
 <h3 align="center">  ᐉ CALC </h1>
@@ -59,7 +59,7 @@ https://gist.githubusercontent.com/LoveYou0011/ffe47541370a862894403847f0fcb90b/
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
 <br />
 <br />
-<h4 align="center">  ᐉ IG  </h1>
+###  ᐉ IG  </h1>
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="www.github.com/lyfe00011">LYFE</a>
 
 ```js
@@ -76,7 +76,7 @@ Example
 ```
 <br />
 <br />
- <h5 align="center">  ᐉ Text  </h1>
+ ### ᐉ Text  </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/lyfe00011">LYFE</a>
 
@@ -88,7 +88,19 @@ https://gist.github.com/lyfe00011/0cdaab914811d3e88f2357e7cd1deac2/raw
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
 <br />
 <br />
-<h6 align="center">  ᐉ WAME[with green tick and name]</h1>
+### ᐉ VV</h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/lyfe00011">LYFE</a>
+
+
+```js
+https://gist.githubusercontent.com/lyfe00011/582ff0b2f2e61cc0cf4ea48084d52cb0/raw
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : DOWNLOAD THE VIEW ONCE IMAGE OR VIDEO <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
+<br />
+<br />
+### ᐉ WAME[with green tick and name]</h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="www.github.com/mask-sir">MASK SER</a>
 
@@ -104,6 +116,8 @@ https://gist.github.com/mask-sir/a0d16d6ea93d6ce1c6b5e0c7ab52da7e
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
 <br />
 <br />
+__________________________________
+__________________________________
 
 ## ▣ Need to add your plugin here?
 ## [![Typing SVG align="center"](https://readme-typing-svg.herokuapp.com?font=Staatliches&color=0A0089&size=20&width=350&lines=We+know+there+are+a+lot+of+plugin;didnt+include+here+...;If+you+created+a+use+full+plugin;and+didnt+here+???;Contact+us+to+add+here+🙂;After+checking+the+use+and+scan;We+given+a+whatsapp+link+above;join+there+and+contact+us;If+there+is+a+problem+in+any+plugin;there+please+contact+us+......)](https://git.io/typing-svg) <br/>
