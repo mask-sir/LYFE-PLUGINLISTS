@@ -28,8 +28,26 @@
 <h2 align="center">➥ OFFICIAL PLUGINS</h1>
 __________________________________
 __________________________________
-<h3 align="center">  ᐉ IG  </h1>
+<h3 align="center">  ᐉ CALC </h1>
 
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/lyfe00011">LYFE</a>
+
+
+```js
+https://gist.github.com/mask-sir/68fc7fbd4b007dfcb8c3f3e293ea2934/raw
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : TO CALCULATE <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
+<br />
+<br />
+**Use by Given format** <br/>
+Example
+```js
+.calc 1+1 / 1*1 /1-1 / (1/1)
+```
+<br />
+<br />
+<h4 align="center">  ᐉ IG  </h1>
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="www.github.com/lyfe00011">LYFE</a>
 
 ```js
@@ -46,7 +64,7 @@ Example
 ```
 <br />
 <br />
- <h3 align="center">  ᐉ Text  </h1>
+ <h5 align="center">  ᐉ Text  </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/lyfe00011">LYFE</a>
 
@@ -58,7 +76,7 @@ https://gist.github.com/lyfe00011/0cdaab914811d3e88f2357e7cd1deac2/raw
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
 <br />
 <br />
-<h4 align="center">  ᐉ WAME[with green tick and name]</h1>
+<h6 align="center">  ᐉ WAME[with green tick and name]</h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="www.github.com/mask-sir">MASK SER</a>
 
