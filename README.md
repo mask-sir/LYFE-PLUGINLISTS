@@ -28,7 +28,24 @@
 <h2 align="center">➥ OFFICIAL PLUGINS</h1>
 ________________________________________
 ________________________________________
+<h3 align="center">  ᐉ IG  </h1>
 
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="www.github.com/lyfe00011">LYFE</a>
+
+```js
+https://gist.github.com/lyfe00011/83a379a3aa375249962e49a734df8bbf/raw
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : SEARCH THE USERNAME ON INSTAGRAM AND GETS THE PROFILE DETAILS <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
+<br />
+<br />
+**Use by Given format** <br/>
+Example
+```js
+.Ig <username>
+```
+<br />
+<br />
  
 <h4 align="center">  ᐉ WAME</h1>
 
@@ -51,12 +68,14 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
 
 #### ᴛʜɪs ʙʟᴏɢɢᴇʀ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ✎<br />
 ◨ ɪɴsᴀɴᴇ ʙᴏʏ ◧ <br />
+◧ ᵁᴾᴰᴬᵀᴱᴰ ᴮʸ ᴹᴬˢᴷ ˢᴱᴿ ◧
 ᴄᴀɴ ʏᴏᴜ ɢɪᴠᴇ ᴍᴇ ᴀ sᴛᴀʀ ✫  ☻ <br /> <br />
 
 #### ᴄᴏɴᴅʀɪʙᴜᴛᴇ ᴛᴏ ❁ <br />
-『 ʟʏғᴇ sɪʀ 』 <br />
+『 LYFE SER 』 <br />
 『 MASK SER 』 <br />
-『 sʜᴀᴅᴏᴡ 』 <br />
+『 INSANEBWOI 』 <br />
+『 ALPHA 』
 <br />
  ©Lyfe 00011 USER BOT
 
