@@ -67,15 +67,15 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
 ## ✆ Contact us
 
 #### ᴛʜɪs ʙʟᴏɢɢᴇʀ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ✎<br />
-◨ ɪɴsᴀɴᴇ ʙᴏʏ ◧ <br />
-◧ ᵁᴾᴰᴬᵀᴱᴰ ᴮʸ ᴹᴬˢᴷ ˢᴱᴿ ◧ <br />
+◨ ᴍᴀsᴋ sᴇʀ◧ <br />
+[ᴄᴏᴘɪᴇᴅ ғʀᴏᴍ <a href="http://github.com/insanebwoi/lyfe-plugins-list">ɪɴsᴀɴʙᴡᴏɪ <a/> ]<br />
 ᴄᴀɴ ʏᴏᴜ ɢɪᴠᴇ ᴍᴇ ᴀ sᴛᴀʀ ✫  ☻ <br /> <br />
 
 #### ᴄᴏɴᴅʀɪʙᴜᴛᴇ ᴛᴏ ❁ <br />
-『 LYFE SER 』 <br />
-『 MASK SER 』 <br />
-『 INSANEBWOI 』 <br />
-『 ALPHA 』
+『 ʟʏғᴇ sᴇʀ 』 <br />
+『 ᴍᴀsᴋ sᴇʀ』 <br />
+『 ɪɴsᴀɴᴇʙᴡᴏɪ 』 <br />
+『 ᴀʟᴘʜᴀ 』
 <br />
  ©Lyfe 00011 USER BOT
 
