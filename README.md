@@ -76,7 +76,7 @@ Example
 ```
 <br />
 <br />
- ### ᐉ Text  </h1>
+<h5 align="center"> ᐉ Text  </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/lyfe00011">LYFE</a>
 
