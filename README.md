@@ -58,7 +58,7 @@ https://gist.github.com/lyfe00011/0cdaab914811d3e88f2357e7cd1deac2/raw
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
 <br />
 <br />
-<h4 align="center">  ᐉ WAME</h1>
+<h4 align="center">  ᐉ WAME[with green tick and name]</h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="www.github.com/mask-sir">MASK SER</a>
 
