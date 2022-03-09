@@ -66,6 +66,10 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
 ```js
 https://gist.github.com/mask-sir/e6f02413f74453ad0ae31c5b7d965d7b/raw
 ```
+### without green tick (fast sending)
+```js
+https://gist.github.com/mask-sir/a0d16d6ea93d6ce1c6b5e0c7ab52da7e
+```
 ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : Gets the invite link of the replied person <br /> 
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
 <br />
