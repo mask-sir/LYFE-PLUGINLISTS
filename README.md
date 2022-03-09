@@ -26,8 +26,8 @@
   <div align="center">
        
 <h2 align="center">➥ OFFICIAL PLUGINS</h1>
-________________________________________
-________________________________________
+__________________________________
+__________________________________
 <h3 align="center">  ᐉ IG  </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="www.github.com/lyfe00011">LYFE</a>
@@ -46,7 +46,18 @@ Example
 ```
 <br />
 <br />
- 
+ <h3 align="center">  ᐉ Text  </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/lyfe00011">LYFE</a>
+
+
+```js
+https://gist.github.com/lyfe00011/0cdaab914811d3e88f2357e7cd1deac2/raw
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :MAKE FONTS WITH DOTED LINES <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
+<br />
+<br />
 <h4 align="center">  ᐉ WAME</h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="www.github.com/mask-sir">MASK SER</a>
