@@ -47,6 +47,18 @@ Example
 ```
 <br />
 <br />
+<h5 align="center">  ᐉCLR </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/LoveYou0011">ELDRIN</a>
+
+
+```js
+https://gist.githubusercontent.com/LoveYou0011/ffe47541370a862894403847f0fcb90b/raw
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : CLEAR CHAT  <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
+<br />
+<br />
 <h4 align="center">  ᐉ IG  </h1>
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="www.github.com/lyfe00011">LYFE</a>
 
