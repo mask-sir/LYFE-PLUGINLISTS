@@ -79,18 +79,6 @@ Example
 <br />
 <br />
 
- ### ᐉ  slot
-
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/">DENIS</a>
-
-
-```js
-https://gist.githubusercontent.com/Whatsden/ff487de5452ef633fee2cf2e8595d7cd/raw
-```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :play a game<b/>
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
-<br />
-<br />
 ###  ᐉ IG  </h1>
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="www.github.com/lyfe00011">LYFE</a>
 
@@ -148,6 +136,30 @@ https://gist.github.com/mask-sir/a0d16d6ea93d6ce1c6b5e0c7ab52da7e
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
 <br />
 <br />
+# 🎮GAMES
+### ᐉSTONE PAPER SCISSORS 
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/NJANRAZ">RAZ</a>
+
+```js
+https://gist.github.com/mask-sir/2ba71db884c34563b68227794cbb6aed
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :stone paper scissors game <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
+<br />
+<br />
+ ### ᐉ  slot
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/">DENIS</a>
+
+
+```js
+https://gist.githubusercontent.com/Whatsden/ff487de5452ef633fee2cf2e8595d7cd/raw
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :play a game<b/>
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
+<br />
+<br />
+
 __________________________________
 __________________________________
 
