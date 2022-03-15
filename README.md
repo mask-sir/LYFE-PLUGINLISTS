@@ -59,6 +59,38 @@ https://gist.githubusercontent.com/LoveYou0011/ffe47541370a862894403847f0fcb90b/
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
 <br />
 <br />
+### ᐉ Setsudo,delsudo,getsudo 
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/lyfe00011">LYFE</a>
+
+
+```js
+https://gist.github.com/lyfe00011/9aa68a52481c439fd6aee2958a7833a3/raw
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪn :set/delete/get sudo without typing var cmnd: <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
+<br />
+<br />
+**Use by Given format** <br/>
+Example
+```js
+.setsudo <nbr>/ replay or mention to a person (.setsudo @.....)
+```
+<br />
+<br />
+
+ ### ᐉ  slot
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/">DENIS</a>
+
+
+```js
+https://gist.githubusercontent.com/Whatsden/ff487de5452ef633fee2cf2e8595d7cd/raw
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :play a game<b/>
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
+<br />
+<br />
 ###  ᐉ IG  </h1>
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="www.github.com/lyfe00011">LYFE</a>
 
