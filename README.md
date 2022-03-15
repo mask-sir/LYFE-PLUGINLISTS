@@ -1,4 +1,4 @@
-![My card name](https://cardivo.vercel.app/api?name=TOTAL_PLUGINS%20&description=𝐏𝐋𝐔𝐆𝐈𝐍𝐒𝐂𝐎𝐔𝐍𝐓=𝟏2&image=https://i.imgur.com/2NoFYTg.jpeg?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23e4f2f6&instagram=headless__angels.exo&github=mask-sir&) 
+![My card name](https://cardivo.vercel.app/api?name=TOTAL_PLUGINS%20&description=𝐏𝐋𝐔𝐆𝐈𝐍𝐒𝐂𝐎𝐔𝐍𝐓=𝟏6&image=https://i.imgur.com/2NoFYTg.jpeg?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23e4f2f6&instagram=headless__angels.exo&github=mask-sir&) 
 <h1 align="center"> LYFE001 PLUGIN LISTS of</h1>
 <div align="center">
   <img align="center" alt="Coding" width="500" src="https://media2.giphy.com/media/oxjEQAAERDpRGp51D3/giphy.gif?cid=6c09b9526682283d53192f0e4f5ea1fc0b0caba1f016f472&rid=giphy.gif&ct=g"> <br /> 
@@ -99,19 +99,7 @@ Example
 ```
 <br />
 <br />
-<h4 align="center">  ⦼ m-forward with fake preview status (.mforward) </h1>
 
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/lyfe00011">lyfe00011</a>
-
-```js
-https://gist.github.com/lyfe00011/467a2e45f4e36b8bb4782ee8da573ca0
-```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : improved version of forward <br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br /> 
-
-⊡ Need edit this plugin for make customasable 
-<br />
-<br />
 ###  ᐉ IG  </h1>
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="www.github.com/lyfe00011">LYFE</a>
 
@@ -169,6 +157,108 @@ https://gist.github.com/mask-sir/a0d16d6ea93d6ce1c6b5e0c7ab52da7e
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
 <br />
 <br />
+### FORWARD PLUGINLIS➡️
+
+<h4 align="center">  ᐉsend plugin </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/farhan-dqz">farhan-dqz</a>
+
+
+```js
+https://gist.githubusercontent.com/farhan-dqz/67ba8fed33aa4f36083cf94788aed31d/raw
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : Basic version of forward <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
+<br />
+<br />
+
+<h4 align="center">  ᐉ m-forward with fake preview status (.mforward) </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/lyfe00011">lyfe00011</a>
+
+```js
+https://gist.github.com/lyfe00011/467a2e45f4e36b8bb4782ee8da573ca0
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : improved version of forward <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br /> 
+
+⊡ Need edit this plugin for make customasable 
+<br />
+<br />
+
+
+<h4 align="center">  ᐉ m-forward custamaisable verify tick status (.cmfor)  </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/insanebwoi">insanebwoi</a>
+
+```js
+https://gist.github.com/insanebwoi/a256b2751ad6298b5374eb40f9f62758
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : Custamaisable version of m forward <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br /> 
+
+⊡ No Need edit this plugin on github   <br/>
+• you can even customize all things in this plugin eg url,caption,duration etc <br/>
+**Use by Given format** <br/>
+```js
+Example .cmfor caption;99;https://i.imgur.com/BiLC1Ik.jpeg;jid1 jid2 jid3 jid4 ...
+```
+<br />
+<br />
+
+
+
+
+<h4 align="center">  ᐉ m-forward media preview with fully custamaisable (.zmfor) </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/insanebwoi">insanebwoi</a>
+
+```js
+https://gist.github.com/insanebwoi/3d3f705f5b9e6f38e0de47745530a312
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : Custamaisable version of m forward with media preview <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br /> 
+
+⊡ No Need edit this plugin on github  <br/>
+• you can even customize all things in this plugin eg url,caption,head,body,duration,price,url,url2 etc <br/>
+**Use by Given format** <br/>
+Example 
+
+```js
+.zmfor ᴇxᴀᴍᴩʟᴇ ꜰᴏʀ ᴢᴍꜰᴏʀ;ᴍꜰᴏʀᴡᴀʀᴅ ᴍᴇᴅɪᴀ ᴩʀᴇᴠɪᴇᴡ ᴡɪᴛʜ ᴄᴜꜱᴛᴀᴍᴀɪꜱᴀʙʟᴇ ᴀᴅᴇᴅᴅ ᴛᴏ ᴩʟᴜɢɪɴ ʟɪꜱᴛ✔️;ᴩʟᴇᴀꜱᴇ ɢᴏ ᴀɴᴅ ᴄʜᴇᴄᴋ🔛;100;2022000;https://www.instagram.com/tv/CX8_LOXByX3/?utm_medium=copy_link;https://i.imgur.com/uLIOJBs.jpeg;https://i.imgur.com/F7KxLWv.jpeg;0@s.whatsapp.net
+```
+
+NB : PRICE TAG MUST ABOVE 100000 = ₹100.00 <br/>
+     DURATION 100 = 1:40 sec 
+<br />
+<br />
+
+
+
+
+
+
+
+<h4 align="center">  ᐉm-forward random custamaisable duration & title verify tick status </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/insanebwoi">insanebwoi</a>
+
+```js
+https://gist.github.com/insanebwoi/d7173ff5f8137e8bfc7d97ff61c41d49
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : Custamaisable version of m forward <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br /> 
+
+⊡ Your choice on editing or not this plugin youcan custamaise it by changing url in the programme <br/>
+• you can even edit all things in this plugin exclude url  <br/>
+**Use by Given format** <br/>
+Example
+```js
+.crfor example;99;jid1 jid2 jid3 jid4 ...
+```
+<br />
+<br />
+
 # 🎮GAMES
 ### ᐉSTONE PAPER SCISSORS 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/NJANRAZ">RAZ</a>
