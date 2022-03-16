@@ -298,6 +298,51 @@ https://gist.github.com/mask-sir/d273d9b05f938a6cf1181c4f213a67c8/raw
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
 <br />
 <br />
+<h4 align="center">  ᐉ MEE</h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/lyfe00011">LYFE</a>
+
+
+```js
+https://gist.github.com/lyfe00011/5e088a997da3d81dbd1f2cca57ac4bca/raw
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪ:self MENTION<br
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
+<br />
+<br />
+<h4 align="center">  ᐉ Dlt </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/insanebwoi">INSANE BOY</a>
+
+
+```js
+https://gist.github.com/insanebwoi/baedffadfc3c492399e120f
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : DELETE THE MESSAGE SEND BY THE BOT (NO TIME LIMIT,NOT DELETE MSG SENDED BY THE USER <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
+<br />
+<br />
+<h align="center">  ᐉ STATUS SAVER </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/"></a>
+
+
+```js
+https://gist.githubusercontent.com/mask-sir/80f32efa9208e4194fd281f9ef9b8b54/raw
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :save the status  <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
+<br />
+<br />
+**Use by Given format** <br/>
+Example
+```js
+.#
+```
+<br />
+<br />
+
+
 
 <h4 align="center">  ᐉLIST ONLINE  </h1>
 
