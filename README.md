@@ -141,14 +141,6 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
 <br />
 <br />
 
-<h4 align="center"> ⦼ Anti view once </h1>
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/lyfe00011">lyfe00011</a>
-
-```js
-https://gist.githubusercontent.com/lyfe00011/582ff0b2f2e61cc0cf4ea48084d52cb0/raw
-```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : This plugin help you to convert view once media to normal media by camand <br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br />
 
 
 ### ᐉ WAME[with green tick and name]</h1>
@@ -268,6 +260,62 @@ Example
 ```
 <br />
 <br />
+<h3 align="center"> EDITOR PLUGINS 👽🌈 <h1 />
+<h4 align="center">  ᐉ SPACK </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/"></a>
+
+
+```js
+https://gist.githubusercontent.com/WAHID-BOT/860ea78cd0103f0d7c412804a50effad
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ 
+: To create text photo logos <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
+<br />
+<br />
+**Use by Given format** <br/>
+Example
+```js
+.ipack
+```
+<br />
+<br />
+
+<h4 align="center"> ᐉFancy ttp</h1>
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/SPARK-SHADOW">SPARK-SHADOW</a> <br /> 
+
+```js
+https://gist.githubusercontent.com/SPARK-SHADOW/37dc98cfbcbb45fb790deda1194e20d0
+```
+
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : fancy ttp <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br /> 
+
+<br />
+
+<h4 align="center"> ᐉTrollmaker v1</h1>
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/insanebwoi">insanebwoi</a> <br />
+ᴄʀᴇᴅɪᴛ ᴛᴏ :<a href="https://github.com/lyfe00011">lyfe00011</a> <br /> 
+
+```js
+https://gist.githubusercontent.com/insanebwoi/52bfee77544a45cd493f108dbef9977b/raw
+```
+
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :This plugin help you to make trolls include cat,dog trolls<br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br /> 
+<br />
+<h4 align="center"> ᐉT-MAKE</h1>
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/insanebwoi">insanebwoi</a> <br /> 
+
+```js
+https://gist.github.com/insanebwoi/5284ef05dee6dbb38d893c34bbf88fee
+```
+
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : This plugin help you to create custamaisable trolls by your choise by url<br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br /> 
+<br />
+
 
 # 🎮GAMES
 ### ᐉSTONE PAPER SCISSORS 
@@ -356,7 +404,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
 <br />
 
 
-<h4 align="center"> ⦼ Anti view once </h1>
+<h4 align="center"> ᐉAnti view once </h1>
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/lyfe00011">lyfe00011</a>
 
 ```js
