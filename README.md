@@ -1,4 +1,4 @@
-Up![My card name](https://cardivo.vercel.app/api?name=TOTAL_PLUGINS%20&description=𝐏𝐋𝐔𝐆𝐈𝐍𝐒𝐂𝐎𝐔𝐍𝐓=𝟯7&image=https://i.imgur.com/2NoFYTg.jpeg?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23e4f2f6&instagram=headless__angels.exo&github=mask-sir&) 
+![My card name](https://cardivo.vercel.app/api?name=TOTAL_PLUGINS%20&description=𝐏𝐋𝐔𝐆𝐈𝐍𝐒𝐂𝐎𝐔𝐍𝐓=𝟯7&image=https://i.imgur.com/2NoFYTg.jpeg?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23e4f2f6&instagram=headless__angels.exo&github=mask-sir&) 
 <h1 align="center"> LYFE001 PLUGIN LISTS of</h1>
 <div align="center">
   <img align="center" alt="Coding" width="500" src="https://media2.giphy.com/media/oxjEQAAERDpRGp51D3/giphy.gif?cid=6c09b9526682283d53192f0e4f5ea1fc0b0caba1f016f472&rid=giphy.gif&ct=g"> <br /> 
@@ -542,6 +542,61 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
 Example
 ```js
 .play beliver
+```
+<br />
+<br />
+<h4 align="center">  ᐉ GQR </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/">LYFE</a>
+
+
+```js
+https://gist.githubusercontent.com/lyfe00011/9f07e4048e95824c886c14c2550f90bc/raw
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪ : make the qr code of Given text <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
+<br />
+<br />
+<h align="center">  ᐉ DOC </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/lyfe00011">LYFE</a>
+
+
+```js
+https://gist.githubusercontent.com/lyfe00011/ca1d9edf4ae2af7ad08f079f10da4d22/raw
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : convert the reolied message to document<br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
+<br />
+<br />
+<h4 align="center">  ᐉ TLINK</h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/lyfe00011">LYFE</a>
+
+
+```js
+https://gist.github.com/mask-sir/e6ead0c956dc853ba3c7db1c87b006d9/raw
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : Covert the replied message to link <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ :lyfe00011
+<br />
+<br />
+<h4 align="center"> jean ᐉ  </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/lyfe00011">LYFE</a>
+
+
+```js
+https://gist.githubusercontent.com/lyfe00011/4d5c4b2a71930b66e829182f632ab9c8/raw
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : search the querry <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
+<br />
+<br />
+**Use by Given format** <br/>
+Example
+```js
+.jean question
 ```
 <br />
 <br />
