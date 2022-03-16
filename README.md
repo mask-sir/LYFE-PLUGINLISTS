@@ -1,4 +1,4 @@
-![My card name](https://cardivo.vercel.app/api?name=TOTAL_PLUGINS%20&description=𝐏𝐋𝐔𝐆𝐈𝐍𝐒𝐂𝐎𝐔𝐍𝐓=𝟏6&image=https://i.imgur.com/2NoFYTg.jpeg?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23e4f2f6&instagram=headless__angels.exo&github=mask-sir&) 
+![My card name](https://cardivo.vercel.app/api?name=TOTAL_PLUGINS%20&description=𝐏𝐋𝐔𝐆𝐈𝐍𝐒𝐂𝐎𝐔𝐍𝐓=𝟮𝟬&image=https://i.imgur.com/2NoFYTg.jpeg?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23e4f2f6&instagram=headless__angels.exo&github=mask-sir&) 
 <h1 align="center"> LYFE001 PLUGIN LISTS of</h1>
 <div align="center">
   <img align="center" alt="Coding" width="500" src="https://media2.giphy.com/media/oxjEQAAERDpRGp51D3/giphy.gif?cid=6c09b9526682283d53192f0e4f5ea1fc0b0caba1f016f472&rid=giphy.gif&ct=g"> <br /> 
@@ -282,7 +282,55 @@ https://gist.githubusercontent.com/Whatsden/ff487de5452ef633fee2cf2e8595d7cd/raw
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
 <br />
 <br />
+### PRANK & FAKE PLUGINS👻
+<h4 align="center"> ᐉ Scam typing&recording </h1>
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/SPARK-SHADOW">SPARK-SHADOW</a> <br /> 
 
+```js
+https://gist.githubusercontent.com/SPARK-SHADOW/aa3991992fae718edb75b380336aff24
+```
+
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : This plugin make scam typing, recording voice to prank others <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br />
+.stop scam   to stop this in 20 sec <br />
+
+<h4 align="center">  ᐉHACK </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/SPARK-SHADOW">SHADOW</a>
+
+
+```js
+https://gist.githubusercontent.com/SPARK-SHADOW/14d9be053f21192f31e79baaf96c2852/raw
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ:Fake hack plugin for just prank <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
+<br />
+<br />
+<h4 align="center">  ᐉCHERRYHECK  </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/insanebwoi">INSANEBOY</a>
+
+
+```js
+https://gist.github.com/mask-sir/a2f9ad2b1735f154f5e38796c1535ac6
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴɪɴ:Fake hack plugin for just prank <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
+<br />
+<br />
+<h4 align="center">  ᐉ TRUE </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/">SHADOW</a>
+
+
+```js
+https://gist.github.com/mask-sir/84df6b7066370735304e63f9db66379f
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪ
+ : Fake Truecaller plugin (og not released)<br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
+<br />
+<br />
 __________________________________
 __________________________________
 
