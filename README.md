@@ -298,6 +298,19 @@ https://gist.github.com/mask-sir/d273d9b05f938a6cf1181c4f213a67c8/raw
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
 <br />
 <br />
+
+<h4 align="center">  ᐉLIST ONLINE  </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/lyfe00011">LYFE</a>
+
+
+```js
+https://gist.github.com/mask-sir/1bf6af13bed8e780033836d5ba665547/raw
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
+<br />
+<br />
 <h4 align="center">  ᐉRENAME, SETDESC,GPP </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/SPARK-SHADOW">SHADOW</a>
