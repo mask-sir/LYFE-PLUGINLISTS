@@ -68,19 +68,6 @@ Example
 ```
 <br />
 <br />
-<h5 align="center">  ᐉCLR </h1>
-
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/LoveYou0011">ELDRIN</a>
-
-
-```js
-https://gist.githubusercontent.com/LoveYou0011/ffe47541370a862894403847f0fcb90b/raw
-```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : CLEAR CHAT  <br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
-<br />
-<br />
-
 <h4 align="center"> ᐉ Cropped Sticker</h1>
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/SPARK-SHADOW">SPARK-SHADOW</a>
 
@@ -351,6 +338,60 @@ https://gist.github.com/mask-sir/84df6b7066370735304e63f9db66379f
 ```
 ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪ
  : Fake Truecaller plugin (og not released)<br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
+<br />
+<br />
+### WHATSAPP REALTED PLUGINS🪀
+<h5 align="center">  ᐉCLR </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/LoveYou0011">ELDRIN</a>
+
+
+```js
+https://gist.githubusercontent.com/LoveYou0011/ffe47541370a862894403847f0fcb90b/raw
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : CLEAR CHAT  <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
+<br />
+<br />
+
+
+<h4 align="center"> ⦼ Anti view once </h1>
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/lyfe00011">lyfe00011</a>
+
+```js
+https://gist.githubusercontent.com/lyfe00011/582ff0b2f2e61cc0cf4ea48084d52cb0/raw
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : This plugin help you to convert view once media to normal media by camand <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br />
+
+<h4 align="center">  ᐉ GPJIDS </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/insanebwoi">INSANE BOY</a>
+
+
+```js
+https://gist.github.com/mask-sir/d273d9b05f938a6cf1181c4f213a67c8/raw
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ 
+:  To get full member jids.you can ut for pmbc, audiobc, broadcast to all<br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
+<br />
+<br />
+<h4 align="center">  ᐉRENAME, SETDESC,GPP </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/SPARK-SHADOW">SHADOW</a>
+
+
+```js
+https://gist.github.com/mask-sir/cafa4bf05c7fa66a93a159872a511dd1
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ 
+:To change group name/desc/dp<br /> 
+``` js
+https://gist.github.com/fasilvkn/69105233899e9d033fcc7a27bee9c1e1/raw
+```
+For changing group profile
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
 <br />
 <br />
