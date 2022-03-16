@@ -1,4 +1,4 @@
-![My card name](https://cardivo.vercel.app/api?name=TOTAL_PLUGINS%20&description=𝐏𝐋𝐔𝐆𝐈𝐍𝐒𝐂𝐎𝐔𝐍𝐓=𝟮𝟬&image=https://i.imgur.com/2NoFYTg.jpeg?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23e4f2f6&instagram=headless__angels.exo&github=mask-sir&) 
+![My card name](https://cardivo.vercel.app/api?name=TOTAL_PLUGINS%20&description=𝐏𝐋𝐔𝐆𝐈𝐍𝐒𝐂𝐎𝐔𝐍𝐓=𝟮1&image=https://i.imgur.com/2NoFYTg.jpeg?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23e4f2f6&instagram=headless__angels.exo&github=mask-sir&) 
 <h1 align="center"> LYFE001 PLUGIN LISTS of</h1>
 <div align="center">
   <img align="center" alt="Coding" width="500" src="https://media2.giphy.com/media/oxjEQAAERDpRGp51D3/giphy.gif?cid=6c09b9526682283d53192f0e4f5ea1fc0b0caba1f016f472&rid=giphy.gif&ct=g"> <br /> 
@@ -80,6 +80,16 @@ https://gist.githubusercontent.com/LoveYou0011/ffe47541370a862894403847f0fcb90b/
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
 <br />
 <br />
+<h4 align="center"> ᐉFancy menu v3 (updated)  </h1>
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/SPARK-SHADOW">SPARK-SHADOW</a> <br /> 
+
+```js
+https://gist.github.com/SPARK-SHADOW/2633547513e2fa88e9af5296961598b2
+```
+
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : Modified version of menu with time and date <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br />
+
 ### ᐉ Setsudo,delsudo,getsudo 
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/lyfe00011">LYFE</a>
