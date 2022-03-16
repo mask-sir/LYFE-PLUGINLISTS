@@ -482,6 +482,56 @@ Example geven below
 ```js
 .buttlist Message,click here,heading,list1,list2,list3
 ``` 
+<h4 align="center"> ᐉNUM </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/lyfe00011">LYFE</a>
+
+
+```js
+https://gist.githubusercontent.com/lyfe00011/6b824f6957d9ac97d7b348ff376e2ace/raw
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : FILTER THE CONTRY NUMBERS<br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
+<br />
+<br />
+<h4 align="center">  ᐉ KIK </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/lyfe00011">LYFE</a>
+
+
+```js
+https://gist.githubusercontent.com/sweetscherry/701f7181f8b4e93aa3955dfe47bce9db/raw
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : removes the person with all matching numbers lyfe00011
+<br />
+<br />
+**Use by Given format** <br/>
+Example
+```js
+.kik 91
+```
+<br />
+<br />
+<h4 align="center">  ᐉ PLAY </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/lyfe00011">LYFE</a>
+
+
+```js
+https://gist.github.com/lyfe00011/ffc1d10b63154bc3870717d2ab7ffcf0/raw
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : Download the song from YouTube<br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
+<br />
+<br />
+**Use by Given format** <br/>
+Example
+```js
+.play beliver
+```
+<br />
+<br />
 __________________________________
 __________________________________
 
