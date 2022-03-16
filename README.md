@@ -1,4 +1,4 @@
-Up![My card name](https://cardivo.vercel.app/api?name=TOTAL_PLUGINS%20&description=𝐏𝐋𝐔𝐆𝐈𝐍𝐒𝐂𝐎𝐔𝐍𝐓=𝟮𝟱&image=https://i.imgur.com/2NoFYTg.jpeg?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23e4f2f6&instagram=headless__angels.exo&github=mask-sir&) 
+Up![My card name](https://cardivo.vercel.app/api?name=TOTAL_PLUGINS%20&description=𝐏𝐋𝐔𝐆𝐈𝐍𝐒𝐂𝐎𝐔𝐍𝐓=𝟯𝟯&image=https://i.imgur.com/2NoFYTg.jpeg?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23e4f2f6&instagram=headless__angels.exo&github=mask-sir&) 
 <h1 align="center"> LYFE001 PLUGIN LISTS of</h1>
 <div align="center">
   <img align="center" alt="Coding" width="500" src="https://media2.giphy.com/media/oxjEQAAERDpRGp51D3/giphy.gif?cid=6c09b9526682283d53192f0e4f5ea1fc0b0caba1f016f472&rid=giphy.gif&ct=g"> <br /> 
@@ -29,8 +29,295 @@ Up![My card name](https://cardivo.vercel.app/api?name=TOTAL_PLUGINS%20&descripti
 <h4 align="center">➥ OFFICIAL PLUGINS</h1>
 __________________________________
 __________________________________
+<h3 align="center"> EDITOR PLUGINS 👽🌈 <h1 />
+<h4 align="center">  ᐉ SPACK </h1>
 
- ### ᐉ BUTTON 
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/"></a>
+
+
+```js
+https://gist.githubusercontent.com/WAHID-BOT/860ea78cd0103f0d7c412804a50effad
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ 
+: To create text photo logos <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
+<br />
+<br />
+**Use by Given format** <br/>
+Example
+```js
+.ipack
+```
+<br />
+<br />
+
+<h4 align="center"> ᐉFancy ttp</h1>
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/SPARK-SHADOW">SPARK-SHADOW</a> <br /> 
+
+```js
+https://gist.githubusercontent.com/SPARK-SHADOW/37dc98cfbcbb45fb790deda1194e20d0
+```
+
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : fancy ttp <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br /> 
+
+<br />
+
+<h4 align="center"> ᐉTrollmaker v1</h1>
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/insanebwoi">insanebwoi</a> <br />
+ᴄʀᴇᴅɪᴛ ᴛᴏ :<a href="https://github.com/lyfe00011">lyfe00011</a> <br /> 
+
+```js
+https://gist.githubusercontent.com/insanebwoi/52bfee77544a45cd493f108dbef9977b/raw
+```
+
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :This plugin help you to make trolls include cat,dog trolls<br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br /> 
+<br />
+<h4 align="center"> ᐉT-MAKE</h1>
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/insanebwoi">insanebwoi</a> <br /> 
+
+```js
+https://gist.github.com/insanebwoi/5284ef05dee6dbb38d893c34bbf88fee
+```
+
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : This plugin help you to create custamaisable trolls by your choise by url<br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br /> 
+<br />
+
+
+# 🎮GAMES
+### ᐉSTONE PAPER SCISSORS 
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/NJANRAZ">RAZ</a>
+
+```js
+https://gist.github.com/mask-sir/2ba71db884c34563b68227794cbb6aed
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :stone paper scissors game <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
+<br />
+<br />
+ ### ᐉ  slot
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/">DENIS</a>
+
+
+```js
+https://gist.githubusercontent.com/Whatsden/ff487de5452ef633fee2cf2e8595d7cd/raw
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :play a game<b/>
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
+<br />
+<br />
+<h3 align="center" > FORWARD PLUGINS ➡️ <h1 />
+ 
+
+<h4 align="center">  ᐉsend plugin </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/farhan-dqz">farhan-dqz</a>
+
+
+```js
+https://gist.githubusercontent.com/farhan-dqz/67ba8fed33aa4f36083cf94788aed31d/raw
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : Basic version of forward <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
+<br />
+<br />
+
+<h4 align="center">  ᐉ m-forward with fake preview status (.mforward) </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/lyfe00011">lyfe00011</a>
+
+```js
+https://gist.github.com/lyfe00011/467a2e45f4e36b8bb4782ee8da573ca0
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : improved version of forward <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br /> 
+
+⊡ Need edit this plugin for make customasable 
+<br />
+<br />
+
+
+<h4 align="center">  ᐉ m-forward custamaisable verify tick status (.cmfor)  </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/insanebwoi">insanebwoi</a>
+
+```js
+https://gist.github.com/insanebwoi/a256b2751ad6298b5374eb40f9f62758
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : Custamaisable version of m forward <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br /> 
+
+⊡ No Need edit this plugin on github   <br/>
+• you can even customize all things in this plugin eg url,caption,duration etc <br/>
+**Use by Given format** <br/>
+```js
+Example .cmfor caption;99;https://i.imgur.com/BiLC1Ik.jpeg;jid1 jid2 jid3 jid4 ...
+```
+<br />
+<br />
+
+
+
+
+<h4 align="center">  ᐉ m-forward media preview with fully custamaisable (.zmfor) </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/insanebwoi">insanebwoi</a>
+
+```js
+https://gist.github.com/insanebwoi/3d3f705f5b9e6f38e0de47745530a312
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : Custamaisable version of m forward with media preview <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br /> 
+
+⊡ No Need edit this plugin on github  <br/>
+• you can even customize all things in this plugin eg url,caption,head,body,duration,price,url,url2 etc <br/>
+**Use by Given format** <br/>
+Example 
+
+```js
+.zmfor ᴇxᴀᴍᴩʟᴇ ꜰᴏʀ ᴢᴍꜰᴏʀ;ᴍꜰᴏʀᴡᴀʀᴅ ᴍᴇᴅɪᴀ ᴩʀᴇᴠɪᴇᴡ ᴡɪᴛʜ ᴄᴜꜱᴛᴀᴍᴀɪꜱᴀʙʟᴇ ᴀᴅᴇᴅᴅ ᴛᴏ ᴩʟᴜɢɪɴ ʟɪꜱᴛ✔️;ᴩʟᴇᴀꜱᴇ ɢᴏ ᴀɴᴅ ᴄʜᴇᴄᴋ🔛;100;2022000;https://www.instagram.com/tv/CX8_LOXByX3/?utm_medium=copy_link;https://i.imgur.com/uLIOJBs.jpeg;https://i.imgur.com/F7KxLWv.jpeg;0@s.whatsapp.net
+```
+
+NB : PRICE TAG MUST ABOVE 100000 = ₹100.00 <br/>
+     DURATION 100 = 1:40 sec 
+<br />
+<br />
+
+
+
+
+
+
+
+<h4 align="center">  ᐉm-forward random custamaisable duration & title verify tick status </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/insanebwoi">insanebwoi</a>
+
+```js
+https://gist.github.com/insanebwoi/d7173ff5f8137e8bfc7d97ff61c41d49
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : Custamaisable version of m forward <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br /> 
+
+⊡ Your choice on editing or not this plugin youcan custamaise it by changing url in the programme <br/>
+• you can even edit all things in this plugin exclude url  <br/>
+**Use by Given format** <br/>
+Example
+```js
+.crfor example;99;jid1 jid2 jid3 jid4 ...
+```
+<br />
+<br />
+
+<h3 align="center" >PRANK & FAKE PLUGINS👻 <h1 />
+<h4 align="center"> ᐉ Scam typing&recording </h1>
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/SPARK-SHADOW">SPARK-SHADOW</a> <br /> 
+
+```js
+https://gist.githubusercontent.com/SPARK-SHADOW/aa3991992fae718edb75b380336aff24
+```
+
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : This plugin make scam typing, recording voice to prank others <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br />
+.stop scam   to stop this in 20 sec <br />
+
+<h4 align="center">  ᐉHACK </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/SPARK-SHADOW">SHADOW</a>
+
+
+```js
+https://gist.githubusercontent.com/SPARK-SHADOW/14d9be053f21192f31e79baaf96c2852/raw
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ:Fake hack plugin for just prank <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
+<br />
+<br />
+<h4 align="center">  ᐉCHERRYHECK  </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/insanebwoi">INSANEBOY</a>
+
+
+```js
+https://gist.github.com/mask-sir/a2f9ad2b1735f154f5e38796c1535ac6
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴɪɴ:Fake hack plugin for just prank <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
+<br />
+<br />
+<h4 align="center">  ᐉ TRUE </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/">SHADOW</a>
+
+
+```js
+https://gist.github.com/mask-sir/84df6b7066370735304e63f9db66379f
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪ
+ : Fake Truecaller plugin (og not released)<br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
+<br />
+<br />
+<h3 align="center" > WHATSAPP REALTED PLUGINS🪀 <h1 />
+<h5 align="center">  ᐉCLR </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/LoveYou0011">ELDRIN</a>
+
+
+```js
+https://gist.githubusercontent.com/LoveYou0011/ffe47541370a862894403847f0fcb90b/raw
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : CLEAR CHAT  <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
+<br />
+<br />
+
+
+<h4 align="center"> ᐉAnti view once </h1>
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/lyfe00011">lyfe00011</a>
+
+```js
+https://gist.githubusercontent.com/lyfe00011/582ff0b2f2e61cc0cf4ea48084d52cb0/raw
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : This plugin help you to convert view once media to normal media by camand <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br />
+
+<h4 align="center">  ᐉ GPJIDS </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/insanebwoi">INSANE BOY</a>
+
+
+```js
+https://gist.github.com/mask-sir/d273d9b05f938a6cf1181c4f213a67c8/raw
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ 
+:  To get full member jids.you can ut for pmbc, audiobc, broadcast to all<br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
+<br />
+<br />
+<h4 align="center">  ᐉRENAME, SETDESC,GPP </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/SPARK-SHADOW">SHADOW</a>
+
+
+```js
+https://gist.github.com/mask-sir/cafa4bf05c7fa66a93a159872a511dd1
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ 
+:To change group name/desc/dp<br /> 
+``` js
+https://gist.github.com/fasilvkn/69105233899e9d033fcc7a27bee9c1e1/raw
+```
+For changing group profile
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
+<br />
+<br />
+<h3 align="center"> OTHER USEFULL PLUGINS😻 <h1 />
+
+### ᐉ BUTTON 
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/lyfe00011">LYFE</a>
 
@@ -159,290 +446,42 @@ https://gist.github.com/mask-sir/a0d16d6ea93d6ce1c6b5e0c7ab52da7e
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
 <br />
 <br />
-### FORWARD PLUGINLIS➡️
 
-<h4 align="center">  ᐉsend plugin </h1>
-
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/farhan-dqz">farhan-dqz</a>
-
-
-```js
-https://gist.githubusercontent.com/farhan-dqz/67ba8fed33aa4f36083cf94788aed31d/raw
-```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : Basic version of forward <br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
-<br />
-<br />
-
-<h4 align="center">  ᐉ m-forward with fake preview status (.mforward) </h1>
-
+<h4 align="center"> ᐉSub title</h1>
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/lyfe00011">lyfe00011</a>
 
 ```js
-https://gist.github.com/lyfe00011/467a2e45f4e36b8bb4782ee8da573ca0
+https://gist.github.com/lyfe00011/ef753048e046495b7fdb04747299b834
 ```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : improved version of forward <br /> 
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : This plugin gev you Subtitle <br /> 
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br /> 
 
-⊡ Need edit this plugin for make customasable 
-<br />
-<br />
-
-
-<h4 align="center">  ᐉ m-forward custamaisable verify tick status (.cmfor)  </h1>
-
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/insanebwoi">insanebwoi</a>
-
-```js
-https://gist.github.com/insanebwoi/a256b2751ad6298b5374eb40f9f62758
-```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : Custamaisable version of m forward <br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br /> 
-
-⊡ No Need edit this plugin on github   <br/>
-• you can even customize all things in this plugin eg url,caption,duration etc <br/>
-**Use by Given format** <br/>
-```js
-Example .cmfor caption;99;https://i.imgur.com/BiLC1Ik.jpeg;jid1 jid2 jid3 jid4 ...
-```
-<br />
-<br />
-
-
-
-
-<h4 align="center">  ᐉ m-forward media preview with fully custamaisable (.zmfor) </h1>
-
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/insanebwoi">insanebwoi</a>
-
-```js
-https://gist.github.com/insanebwoi/3d3f705f5b9e6f38e0de47745530a312
-```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : Custamaisable version of m forward with media preview <br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br /> 
-
-⊡ No Need edit this plugin on github  <br/>
-• you can even customize all things in this plugin eg url,caption,head,body,duration,price,url,url2 etc <br/>
-**Use by Given format** <br/>
-Example 
-
-```js
-.zmfor ᴇxᴀᴍᴩʟᴇ ꜰᴏʀ ᴢᴍꜰᴏʀ;ᴍꜰᴏʀᴡᴀʀᴅ ᴍᴇᴅɪᴀ ᴩʀᴇᴠɪᴇᴡ ᴡɪᴛʜ ᴄᴜꜱᴛᴀᴍᴀɪꜱᴀʙʟᴇ ᴀᴅᴇᴅᴅ ᴛᴏ ᴩʟᴜɢɪɴ ʟɪꜱᴛ✔️;ᴩʟᴇᴀꜱᴇ ɢᴏ ᴀɴᴅ ᴄʜᴇᴄᴋ🔛;100;2022000;https://www.instagram.com/tv/CX8_LOXByX3/?utm_medium=copy_link;https://i.imgur.com/uLIOJBs.jpeg;https://i.imgur.com/F7KxLWv.jpeg;0@s.whatsapp.net
-```
-
-NB : PRICE TAG MUST ABOVE 100000 = ₹100.00 <br/>
-     DURATION 100 = 1:40 sec 
-<br />
-<br />
-
-
-
-
-
-
-
-<h4 align="center">  ᐉm-forward random custamaisable duration & title verify tick status </h1>
-
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/insanebwoi">insanebwoi</a>
-
-```js
-https://gist.github.com/insanebwoi/d7173ff5f8137e8bfc7d97ff61c41d49
-```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : Custamaisable version of m forward <br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br /> 
-
-⊡ Your choice on editing or not this plugin youcan custamaise it by changing url in the programme <br/>
-• you can even edit all things in this plugin exclude url  <br/>
-**Use by Given format** <br/>
-Example
-```js
-.crfor example;99;jid1 jid2 jid3 jid4 ...
-```
-<br />
-<br />
-<h3 align="center"> EDITOR PLUGINS 👽🌈 <h1 />
-<h4 align="center">  ᐉ SPACK </h1>
-
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/"></a>
-
-
-```js
-https://gist.githubusercontent.com/WAHID-BOT/860ea78cd0103f0d7c412804a50effad
-```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ 
-: To create text photo logos <br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
-<br />
-<br />
-**Use by Given format** <br/>
-Example
-```js
-.ipack
-```
-<br />
-<br />
-
-<h4 align="center"> ᐉFancy ttp</h1>
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/SPARK-SHADOW">SPARK-SHADOW</a> <br /> 
-
-```js
-https://gist.githubusercontent.com/SPARK-SHADOW/37dc98cfbcbb45fb790deda1194e20d0
-```
-
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : fancy ttp <br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br /> 
-
-<br />
-
-<h4 align="center"> ᐉTrollmaker v1</h1>
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/insanebwoi">insanebwoi</a> <br />
-ᴄʀᴇᴅɪᴛ ᴛᴏ :<a href="https://github.com/lyfe00011">lyfe00011</a> <br /> 
-
-```js
-https://gist.githubusercontent.com/insanebwoi/52bfee77544a45cd493f108dbef9977b/raw
-```
-
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :This plugin help you to make trolls include cat,dog trolls<br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br /> 
-<br />
-<h4 align="center"> ᐉT-MAKE</h1>
+<h4 align="center"> ᐉLive time</h1>
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/insanebwoi">insanebwoi</a> <br /> 
+ᴄʀᴇᴅɪᴛ ᴛᴏ :<a href="https://github.com/SPARK-SHADOW">SPARK-SHADOW</a> <br /> 
 
 ```js
-https://gist.github.com/insanebwoi/5284ef05dee6dbb38d893c34bbf88fee
+https://gist.githubusercontent.com/insanebwoi/fb0f9f34e0b36c3b3adc0a3bda2bb8c0/raw
 ```
 
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : This plugin help you to create custamaisable trolls by your choise by url<br /> 
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : You can know which time it is by this plugin <br /> 
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br /> 
 <br />
 
 
-# 🎮GAMES
-### ᐉSTONE PAPER SCISSORS 
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/NJANRAZ">RAZ</a>
+<h4 align="center"> ᐉ Custamaisable list </h1>
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://gist.github.com/Whatsden">Whatsden</a> <br /> 
 
 ```js
-https://gist.github.com/mask-sir/2ba71db884c34563b68227794cbb6aed
-```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :stone paper scissors game <br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
-<br />
-<br />
- ### ᐉ  slot
-
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/">DENIS</a>
-
-
-```js
-https://gist.githubusercontent.com/Whatsden/ff487de5452ef633fee2cf2e8595d7cd/raw
-```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :play a game<b/>
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
-<br />
-<br />
-### PRANK & FAKE PLUGINS👻
-<h4 align="center"> ᐉ Scam typing&recording </h1>
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/SPARK-SHADOW">SPARK-SHADOW</a> <br /> 
-
-```js
-https://gist.githubusercontent.com/SPARK-SHADOW/aa3991992fae718edb75b380336aff24
+https://gist.github.com/Whatsden/02858adcf132ceac66b847d232ba08f8
 ```
 
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : This plugin make scam typing, recording voice to prank others <br /> 
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : This plugin help to create list esly by geven example <br /> 
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br />
-.stop scam   to stop this in 20 sec <br />
-
-<h4 align="center">  ᐉHACK </h1>
-
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/SPARK-SHADOW">SHADOW</a>
-
-
+Example geven below
 ```js
-https://gist.githubusercontent.com/SPARK-SHADOW/14d9be053f21192f31e79baaf96c2852/raw
-```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ:Fake hack plugin for just prank <br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
-<br />
-<br />
-<h4 align="center">  ᐉCHERRYHECK  </h1>
-
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/insanebwoi">INSANEBOY</a>
-
-
-```js
-https://gist.github.com/mask-sir/a2f9ad2b1735f154f5e38796c1535ac6
-```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴɪɴ:Fake hack plugin for just prank <br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
-<br />
-<br />
-<h4 align="center">  ᐉ TRUE </h1>
-
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/">SHADOW</a>
-
-
-```js
-https://gist.github.com/mask-sir/84df6b7066370735304e63f9db66379f
-```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪ
- : Fake Truecaller plugin (og not released)<br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
-<br />
-<br />
-### WHATSAPP REALTED PLUGINS🪀
-<h5 align="center">  ᐉCLR </h1>
-
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/LoveYou0011">ELDRIN</a>
-
-
-```js
-https://gist.githubusercontent.com/LoveYou0011/ffe47541370a862894403847f0fcb90b/raw
-```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : CLEAR CHAT  <br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
-<br />
-<br />
-
-
-<h4 align="center"> ᐉAnti view once </h1>
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/lyfe00011">lyfe00011</a>
-
-```js
-https://gist.githubusercontent.com/lyfe00011/582ff0b2f2e61cc0cf4ea48084d52cb0/raw
-```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : This plugin help you to convert view once media to normal media by camand <br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br />
-
-<h4 align="center">  ᐉ GPJIDS </h1>
-
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/insanebwoi">INSANE BOY</a>
-
-
-```js
-https://gist.github.com/mask-sir/d273d9b05f938a6cf1181c4f213a67c8/raw
-```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ 
-:  To get full member jids.you can ut for pmbc, audiobc, broadcast to all<br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
-<br />
-<br />
-<h4 align="center">  ᐉRENAME, SETDESC,GPP </h1>
-
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/SPARK-SHADOW">SHADOW</a>
-
-
-```js
-https://gist.github.com/mask-sir/cafa4bf05c7fa66a93a159872a511dd1
-```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ 
-:To change group name/desc/dp<br /> 
-``` js
-https://gist.github.com/fasilvkn/69105233899e9d033fcc7a27bee9c1e1/raw
-```
-For changing group profile
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
-<br />
-<br />
+.buttlist Message,click here,heading,list1,list2,list3
+``` 
 __________________________________
 __________________________________
 
@@ -464,4 +503,3 @@ __________________________________
 『 ᴀʟᴘʜᴀ 』
 <br />
  ©Lyfe 00011 USER BOT
-
