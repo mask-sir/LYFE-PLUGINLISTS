@@ -138,7 +138,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
 ```js
 https://gist.github.com/lyfe00011/467a2e45f4e36b8bb4782ee8da573ca0
 ```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : improved version of forward <br /> 
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : improved version of forward.You can add any link in the body section (group link, YouTube,wame link etc...)<br /> 
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br /> 
 
 ⊡ Need edit this plugin for make customasable 
