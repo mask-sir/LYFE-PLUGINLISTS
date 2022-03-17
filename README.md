@@ -8,7 +8,7 @@
 
 <h2 align="center">  ➠ ʜᴏᴡ ᴛᴏ ɪɴsᴛᴀʟʟ ᴘʟᴜɢɪɴ
 </h1>
-
+<!CODED BY MASK SER>
 
 ✯ <ʜᴀɴᴅʟᴇʀ> ᴘʟᴜɢɪɴ <ᴘʟᴜɢɪɴ ʟɪɴᴋ>
 <h3 align="center">  ➠ ʜᴏᴡ ᴛᴏ ʀᴇᴍᴏᴠᴇ ᴘʟᴜɢɪɴ</h1>
@@ -19,13 +19,15 @@
 
 
 ✯ Iғ ʏᴏᴜ ʜᴀᴠᴇ ɴᴏ ɢɪᴛʜᴜʙ ᴀᴄᴄᴏᴜɴᴛ ᴄʀᴇᴀᴛᴇ ᴀ ᴀᴄᴏᴜɴᴛ ᴛʜᴇɴ ғᴏʀᴋ ғᴏʀᴡᴀʀᴅ ᴘʟᴜɢɪɴ ᴛʜᴇɴ ᴄʜᴀɴɢᴇ ᴄᴏɴsᴛ ᴜʀʟ ᴛʜᴇɴ ᴄʜᴀɴɢᴇ ᴄᴀᴘᴛɪᴏɴ ᴛᴏ ʏᴏᴜʀ ɴᴀᴍᴇ ᴏʀ ᴛɪᴛʟᴇ ᴛʜᴇɴ ᴄʀᴇᴀᴛᴇ ᴀ sᴇᴄʀᴇᴛᴇ ɢɪsᴛ ᴛʜᴇɴ sʜᴀʀᴇ ᴛʜᴀᴛ ᴄᴏᴅᴇ ᴛʜᴇɴ ɪɴsᴛᴀʟʟ ɪᴛ...
-
-
+### FOR PLUGIN EDITING TUTORIAL CLICK BELOW
+ <a href="https://youtu.be/9PgSQzQn5Qc"><img src="https://img.shields.io/badge/-watch%20video-critical?style=for-the-badge&logo=youtube&logoColor=white">
+   <br>
+ 
 
 ᴄʟɪᴄᴋ ᴡᴀ ʟᴏɢᴏ ᴛᴏ ᴊᴏɪɴ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 👇 
 <br> [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/DlKiZmfe0R7JTZG9w0okrW)
   <div align="center">
-       
+      
 <h4 align="center">➥ OFFICIAL PLUGINS</h1>
 __________________________________
 __________________________________
@@ -110,7 +112,9 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
 <br />
 <br />
 <h3 align="center" > FORWARD PLUGINS ➡️ <h1 />
- 
+<h4 align="center" > FIRST WATCH THIS VIDEO AND USE MFORWRD PLUGINS </h1> 
+ <a href="https://youtu.be/9PgSQzQn5Qc"><img src="https://img.shields.io/badge/-watch%20video-critical?style=for-the-badge&logo=youtube&logoColor=white">
+   <br>
 
 <h4 align="center">  ᐉsend plugin </h1>
 
