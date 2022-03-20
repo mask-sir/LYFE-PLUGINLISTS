@@ -28,12 +28,36 @@
 
 ᴄʟɪᴄᴋ ᴡᴀ ʟᴏɢᴏ ᴛᴏ ᴊᴏɪɴ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 👇 
 <br> [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/DlKiZmfe0R7JTZG9w0okrW)
-  <div align="center">
-      
+  <div align="center"
+_____________________________
+## WHATS NEW!!               |
+1)emix (20/03/2022)          |
+_____________________________|      
 <h4 align="center">➥ OFFICIAL PLUGINS</h1>
 __________________________________
 __________________________________
 <h3 align="center"> EDITOR PLUGINS 👽🌈 <h1 />
+<h4 align="center">  ᐉEMOJIMIX  </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/lyfe00011">LYFE</a>
+
+
+```js
+https://gist.github.com/lyfe00011/9da1f023411e17a305e70425f2f17d5b
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ 
+:MIX THE EMOJIS lyfe00011
+<br />
+<br />
+**Use by Given format** <br/>
+Example
+```js
+.emix 😳😩
+```
+<br />
+<br />
+
 <h4 align="center">  ᐉ SPACK </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/"></a>
