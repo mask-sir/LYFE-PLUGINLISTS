@@ -1,5 +1,5 @@
-![My card name](https://cardivo.vercel.app/api?name=TOTAL_PLUGINS%20&description=𝐏𝐋𝐔𝐆𝐈𝐍𝐒𝐂𝐎𝐔𝐍𝐓=𝟰𝟰&image=https://i.imgur.com/2NoFYTg.jpeg?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23e4f2f6&instagram=headless__angels.exo&github=mask-sir&) 
-<a href="https://github.com/mask-sir/LYFE-PLUGINLISTS"><img src="https://img.shields.io/badge/TOTAL%20PLUGINS%20%3D-44-blue">
+![My card name](https://cardivo.vercel.app/api?name=TOTAL_PLUGINS%20&description=𝐏𝐋𝐔𝐆𝐈𝐍𝐒𝐂𝐎𝐔𝐍𝐓=𝟰𝟴&image=https://i.imgur.com/2NoFYTg.jpeg?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23e4f2f6&instagram=headless__angels.exo&github=mask-sir&) 
+<a href="https://github.com/mask-sir/LYFE-PLUGINLISTS"><img src="https://img.shields.io/badge/TOTAL%20PLUGINS%20%3D-48-blue">
    <br>
 <h1 align="center"> LYFE001 PLUGIN LISTS of</h1>
 <div align="center">
@@ -337,6 +337,47 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
 https://gist.github.com/lyfe00011/5e088a997da3d81dbd1f2cca57ac4bca/raw
 ```
 ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪ:self MENTION<br
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
+<br />
+<br />
+
+
+<h4 align="center">  ᐉ PM  </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/"></a>
+
+
+```js
+https://gist.githubusercontent.com/mask-sir/4f062aa3e3adca278e1805f09af2935a/raw
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : SEND THE OWNER VCARD<br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
+<br />
+<br />
+
+
+<h4 align="center">  ᐉ YOU </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/iam-arya">ARYA</a>
+
+
+```js
+https://gist.github.com/mask-sir/c61b8efb686d7cbc077d7ebdd84a4ec6
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : mention the replied person lyfe00011
+<br />
+<br />
+
+<h align="center">  ᐉ IM </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/SPARK-SHADOW">SHADOW</a>
+
+
+```js
+https://gist.github.com/mask-sir/af610e4911906459866d026b773bfb02
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : ADD NOTEPAD OR DETAILS (EDIT AND USE)<br /> 
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
 <br />
 <br />
