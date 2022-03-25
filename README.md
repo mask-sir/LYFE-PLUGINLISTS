@@ -1,5 +1,5 @@
-![My card name](https://cardivo.vercel.app/api?name=TOTAL_PLUGINS%20&description=𝐏𝐋𝐔𝐆𝐈𝐍𝐒𝐂𝐎𝐔𝐍𝐓=𝟰𝟴&image=https://i.imgur.com/2NoFYTg.jpeg?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23e4f2f6&instagram=headless__angels.exo&github=mask-sir&) 
-<a href="https://github.com/mask-sir/LYFE-PLUGINLISTS"><img src="https://img.shields.io/badge/TOTAL%20PLUGINS%20%3D-48-blue">
+![My card name](https://cardivo.vercel.app/api?name=TOTAL_PLUGINS%20&description=𝐏𝐋𝐔𝐆𝐈𝐍𝐒𝐂𝐎𝐔𝐍𝐓=𝟰9&image=https://i.imgur.com/2NoFYTg.jpeg?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23e4f2f6&instagram=headless__angels.exo&github=mask-sir&) 
+<a href="https://github.com/mask-sir/LYFE-PLUGINLISTS"><img src="https://img.shields.io/badge/TOTAL%20PLUGINS%20%3D-49-blue">
    <br>
 <h1 align="center"> LYFE001 PLUGIN LISTS of</h1>
 <div align="center">
@@ -36,6 +36,7 @@ _____________________________|
 <h4 align="center">➥ OFFICIAL PLUGINS</h1>
 __________________________________
 __________________________________
+### TRUE PLUGIN IN WHATSAPP RELATED PLUGIN SECTION
 <h3 align="center"> EDITOR PLUGINS 👽🌈 <h1 />
 <h4 align="center">  ᐉEMOJIMIX  </h1>
 
@@ -292,6 +293,17 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
 <br />
 <br />
 <h3 align="center" > WHATSAPP REALTED PLUGINS🪀 <h1 />
+<h4 align="center">  ᐉTRUECALLER😍  </h1>
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/Souravkl11">SOURAV</a>
+
+
+```js
+https://gist.github.com/souravkl11/156a01ae93836f3c13c48b92c6d074af
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : SEARCH IN TRUECALLER <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
+<br />
+<br />
 <h5 align="center">  ᐉCLR </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/LoveYou0011">ELDRIN</a>
