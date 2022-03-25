@@ -36,7 +36,7 @@ _____________________________|
 <h4 align="center">➥ OFFICIAL PLUGINS</h1>
 __________________________________
 __________________________________
-### TRUE PLUGIN IN WHATSAPP RELATED PLUGIN SECTION
+⚠️ TRUE PLUGIN IN WHATSAPP RELATED PLUGIN SECTION
 <h3 align="center"> EDITOR PLUGINS 👽🌈 <h1 />
 <h4 align="center">  ᐉEMOJIMIX  </h1>
 
