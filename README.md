@@ -120,7 +120,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br />
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/NJANRAZ">RAZ</a>
 
 ```js
-https://gist.github.com/mask-sir/2ba71db884c34563b68227794cbb6aed
+https://gist.github.com/NJANRAZ/df82bdf4aca5e44def1bba7f778db188
 ```
 ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :stone paper scissors game <br /> 
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
