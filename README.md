@@ -35,8 +35,57 @@ _____________________________
 _____________________________|      
 <h4 align="center">➥ OFFICIAL PLUGINS</h1>
 __________________________________
-__________________________________
-⚠️ TRUE PLUGIN IN WHATSAPP RELATED PLUGIN SECTION
+___________________________________
+<h3 align="center">LYFE00011 MD BOT PLUGINS </h1>
+<h4 align="center">  ᐉMFORWARD  </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
+
+
+```js
+
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : FORWARD REPLIED MESSAGE<br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 WHATSAPP-BOT-MD
+<br />
+<br />
+<h3 align="center">  ᐉDELETE  </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/insanebwoi">INSANEBWOI</a>
+
+
+```js
+
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : DELETE ANY MESSAGE SENDED BY ANY TIME,BY USER OR BOT<br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 WHATSAPP-BOT-MD
+<br />
+<br />
+<h4 align="center">  ᐉGROUP JIDS </h1>
+ 
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/insanebwoi">INSANEBWOI</a>
+
+
+```js
+
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : GET JIDS OF THE GROUP MEMBERS <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 WHATSAPP-BOT-MD
+<br />
+<br />
+<h4 align="center">  ᐉMEE </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/ALEN-KENZ">ALEN</a>
+
+
+```js
+
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :SELF MENTION<br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 WHATSAPP-BOT-MD
+<br />
+<br />
+_________________________________________________
 <h3 align="center"> EDITOR PLUGINS 👽🌈 <h1 />
 <h4 align="center">  ᐉEMOJIMIX  </h1>
 
