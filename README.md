@@ -26,7 +26,7 @@
  
 
 ᴄʟɪᴄᴋ ᴡᴀ ʟᴏɢᴏ ᴛᴏ ᴊᴏɪɴ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 👇 
-<br> [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/Bpz5J2nVv3gDqnRWi7Vlzf)
+<br> [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/Ezk6tfkqqDuKDlEsQR1lHA)
   <div align="center"
 _____________________________
 ## WHATS NEW                 |
