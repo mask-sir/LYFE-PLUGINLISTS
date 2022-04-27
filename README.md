@@ -1,9 +1,11 @@
 ![My card name](https://cardivo.vercel.app/api?name=TOTAL_PLUGINS%20&description=𝐏𝐋𝐔𝐆𝐈𝐍𝐒𝐂𝐎𝐔𝐍𝐓=𝟱𝟬&image=https://i.imgur.com/2NoFYTg.jpeg?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23e4f2f6&instagram=headless__angels.exo&github=mask-sir&) 
 <a href="https://github.com/mask-sir/LYFE-PLUGINLISTS"><img src="https://img.shields.io/badge/TOTAL%20PLUGINS%20%3D-50-blue">
    <br>
-<h1 align="center"> LYFE001 PLUGIN LISTS of</h1>
+<h1 align="center"> LYFE001 PLUGIN LISTS </h1>
 <div align="center">
-  <img align="center" alt="Coding" width="500" src="https://media2.giphy.com/media/oxjEQAAERDpRGp51D3/giphy.gif?cid=6c09b9526682283d53192f0e4f5ea1fc0b0caba1f016f472&rid=giphy.gif&ct=g"> <br /> 
+  <!img align="center" alt="Coding" width="500" src="https://media2.giphy.com/media/oxjEQAAERDpRGp51D3/giphy.gif?cid=6c09b9526682283d53192f0e4f5ea1fc0b0caba1f016f472&rid=giphy.gif&ct=g"> <!br /> 
+  <img border-radius: 30px src="https://i.imgur.com/dDcrb4k.jpeg" width="1000" height="300"/>
+
 <br /> 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=LYFE-PLUGINLISTS&label=Visitors%20count&color=10d9c3&style=plastic" alt="lyfe-plugin-list" /> </p>
 
@@ -17,10 +19,7 @@
  
 
 ✯ <ʜᴀɴᴅʟᴇʀ>ʀᴇᴍᴏᴠᴇ <ᴘʟᴜɢɪɴ ɴᴀᴍᴇ>
-<h3 align="center">  ➠ ʜᴏᴡ ᴛᴏ ᴄʜᴀɴɢᴇ ᴘʜᴏᴛᴏ ᴀɴᴅ ᴛɪᴛʟᴇ ᴏғ ғᴏʀᴡᴀʀᴅ ᴘʟᴜɢɪɴ</h1>
 
-
-✯ Iғ ʏᴏᴜ ʜᴀᴠᴇ ɴᴏ ɢɪᴛʜᴜʙ ᴀᴄᴄᴏᴜɴᴛ ᴄʀᴇᴀᴛᴇ ᴀ ᴀᴄᴏᴜɴᴛ ᴛʜᴇɴ ғᴏʀᴋ ғᴏʀᴡᴀʀᴅ ᴘʟᴜɢɪɴ ᴛʜᴇɴ ᴄʜᴀɴɢᴇ ᴄᴏɴsᴛ ᴜʀʟ ᴛʜᴇɴ ᴄʜᴀɴɢᴇ ᴄᴀᴘᴛɪᴏɴ ᴛᴏ ʏᴏᴜʀ ɴᴀᴍᴇ ᴏʀ ᴛɪᴛʟᴇ ᴛʜᴇɴ ᴄʀᴇᴀᴛᴇ ᴀ sᴇᴄʀᴇᴛᴇ ɢɪsᴛ ᴛʜᴇɴ sʜᴀʀᴇ ᴛʜᴀᴛ ᴄᴏᴅᴇ ᴛʜᴇɴ ɪɴsᴛᴀʟʟ ɪᴛ...
 ### FOR PLUGIN EDITING TUTORIAL CLICK BELOW
  <a href="https://youtu.be/9PgSQzQn5Qc"><img src="https://img.shields.io/badge/-watch%20video-critical?style=for-the-badge&logo=youtube&logoColor=white">
    <br>
@@ -30,7 +29,7 @@
 <br> [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/Bpz5J2nVv3gDqnRWi7Vlzf)
   <div align="center"
 _____________________________
-## WHATS NEW!!               |
+## WHATS NEW                 |
 1)emix (20/03/2022)          |
 _____________________________|      
 <h4 align="center">➥ OFFICIAL PLUGINS</h1>
