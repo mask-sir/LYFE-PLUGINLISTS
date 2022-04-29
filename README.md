@@ -35,7 +35,7 @@ _____________________________|
 __________________________________
 ___________________________________
 <h3 align="center">LYFE00011 MD BOT PLUGINS </h1>
-<a href="https://github.com/mask-sir/LYFE-PLUGINLISTS"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-7-green">
+<a href="https://github.com/mask-sir/LYFE-PLUGINLISTS"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-8-green">
 <h4 align="center">  ᐉAUDIO  </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/lyfe00011">LYFE</a>
@@ -119,7 +119,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 WHATSAPP-BOT-MD
 <a href="https://github.com/mask-sir/LYFE-PLUGINLISTS"><img src="https://img.shields.io/badge/TOTAL%20NON%20MD%20PLUGINS%20%3D-51-blue">
 <h4 align="center">  ᐉ YTL </h1>
 
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/lyfe00011">LYFE</a>
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/lyfe00011"> LYFE</a>
 
 
 ```js
