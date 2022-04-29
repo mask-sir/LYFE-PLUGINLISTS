@@ -84,6 +84,7 @@ https://gist.github.com/Alen-kenz/352e450d19dd8f0cf2ba6bc18752e5b4/raw
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 WHATSAPP-BOT-MD
 <br />
 <br />
+<h3 align="center"> NON-MD PLUGINS <h1 l>
 _________________________________________________
 <h3 align="center"> EDITOR PLUGINS 👽🌈 <h1 />
 <h4 align="center">  ᐉEMOJIMIX  </h1>
