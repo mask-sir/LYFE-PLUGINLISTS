@@ -115,8 +115,6 @@ https://gist.github.com/Alen-kenz/352e450d19dd8f0cf2ba6bc18752e5b4/raw
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 WHATSAPP-BOT-MD
 <br />
 <br />
-<h3 align="center"> NON-MD PLUGINS <h1 l>
-<a href="https://github.com/mask-sir/LYFE-PLUGINLISTS"><img src="https://img.shields.io/badge/TOTAL%20NON%20MD%20PLUGINS%20%3D-51-blue">
 <h4 align="center">  ᐉ YTL </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/lyfe00011"> LYFE</a>
@@ -142,6 +140,9 @@ https://gist.github.com/fasilvkn/181ed05d6c06f8ae4ade81434024369c/raw
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
 <br />
 <br />
+
+<h3 align="center"> NON-MD PLUGINS <h1 l>
+<a href="https://github.com/mask-sir/LYFE-PLUGINLISTS"><img src="https://img.shields.io/badge/TOTAL%20NON%20MD%20PLUGINS%20%3D-51-blue">
 _________________________________________________
 <h3 align="center"> EDITOR PLUGINS 👽🌈 <h1 />
 <h4 align="center">  ᐉAUDIO  </h1>
