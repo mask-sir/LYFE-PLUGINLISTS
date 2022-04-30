@@ -136,7 +136,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 WHATSAPP-BOT-MD
 
 
 ```js
-https://gist.github.com/fasilvkn/0984b7fe1de3e457c7e5f7369ac9c13b/raw
+https://gist.github.com/fasilvkn/181ed05d6c06f8ae4ade81434024369c/raw
 ```
 ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : jst a prank plugin <br /> 
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
