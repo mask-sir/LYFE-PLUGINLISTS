@@ -35,7 +35,26 @@ _____________________________|
 __________________________________
 ___________________________________
 <h3 align="center">LYFE00011 MD BOT PLUGINS </h1>
-<a href="https://github.com/mask-sir/LYFE-PLUGINLISTS"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-8-green">
+<a href="https://github.com/mask-sir/LYFE-PLUGINLISTS"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-9-green">
+<h4 align="center">  ᐉATS(zmfor)  </h1>
+
+ CONVERTED BY :<a href="http://www.github.com/alen-kenz">ALEN</a>
+
+
+```js
+https://gist.github.com/mask-sir/7f8fa479c8c362bc1b2f1c50792da251/raw
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : MFORWARD WITH INSTGRAM LINK PREVIEW <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
+<br />
+<br />
+**Use by Given format** <br/>
+Example
+```js
+.Ats MASK SER;BY MASK SER; ZMFOR GOING TO RELEASE ;111111111111;4005127;www.instagram.com/reels/osnsj;https://i.imgur.com/3CQLj9K.jpeg;https://i.imgur.com/b08knMk.jpeg;120363041103519586@g.us
+```
+<br />
+<br />
 <h4 align="center">  ᐉAUDIO  </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/lyfe00011">LYFE</a>
@@ -61,7 +80,7 @@ Example
 
 
 ```js
-https://gist.github.com/mask-sir/f6022414405b6fa4a0e5ef1426849bd0
+https://gist.github.com/Alien-alfa/d5e3bc953bcc6e1efaf8a9790a60724a/raw
 ```
 ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : wame generator  <br /> 
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
