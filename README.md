@@ -35,9 +35,20 @@ _____________________________|
 __________________________________
 ___________________________________
 <h3 align="center">LYFE00011 MD BOT PLUGINS </h1>
-<a href="https://github.com/mask-sir/LYFE-PLUGINLISTS"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-9-green">
-<h4 align="center">  ᐉATS(zmfor)  </h1>
+<a href="https://github.com/mask-sir/LYFE-PLUGINLISTS"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-10-green">
+<h4 align="center">  ᐉ GROUPJIDS </h1>
 
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/lyfe00011">LYFE</a>
+
+
+```js
+https://gist.github.com/lyfe00011/2ba742b9483c374cddcce9fb6382bb5f/raw
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : GET ALL GROUP JIDS IN YOUR CHAT <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
+<br />
+<br />
+<h4 align="center">  ᐉATS(zmfor)  </h1>
  CONVERTED BY :<a href="http://www.github.com/alen-kenz">ALEN</a>
 
 
