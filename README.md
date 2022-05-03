@@ -66,13 +66,13 @@ Example
 ```
 <br />
 <br />
-<h4 align="center">  ᐉAUDIO  </h1>
+<h4 align="center">  ᐉVOICE CHANGER  </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/lyfe00011">LYFE</a>
 
 
 ```js
-https://gist.github.com/lyfe00011/b56d6eccc654b6a8ef9f0e9287ed3add
+https://gist.github.com/mask-sir/8184816cacab0116bb39f32b3ad9aaf7
 ```
 ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : AUDIO EDITOR <br /> 
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
