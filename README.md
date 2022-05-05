@@ -42,7 +42,7 @@ ___________________________________
 
 
 ```js
-https://gist.github.com/mask-sir/8c8c13ebb903771b3b881c2e9aaf7b22
+https://gist.github.com/mask-sir/9e3846ea9e1016606a5c1a85c2ae1e71
 ```
 ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : calculator <br /> 
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
