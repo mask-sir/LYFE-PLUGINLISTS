@@ -31,7 +31,7 @@ _____________________________
 ## WHATS NEW                 |
 1)emix (20/03/2022)          |
 _____________________________|      
-<h4 align="center">➥ OFFICIAL PLUGINS</h1>
+<h4 align="center">➥ PLUGINS</h1>
 __________________________________
 ___________________________________
 <h3 align="center">LYFE00011 MD BOT PLUGINS </h1>
