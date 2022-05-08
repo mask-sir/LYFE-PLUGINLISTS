@@ -7,7 +7,9 @@
 
 <br /> 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=LYFE-PLUGINLISTS&label=Visitors%20count&color=10d9c3&style=plastic" alt="lyfe-plugin-list" /> </p>
-
+<details>
+<summary>HOW TO INSTALL PLUGIN??</summary>
+<p>
 
 <h2 align="center">  ➠ ʜᴏᴡ ᴛᴏ ɪɴsᴛᴀʟʟ ᴘʟᴜɢɪɴ
 </h1>
@@ -18,6 +20,8 @@
  
 
 ✯ <ʜᴀɴᴅʟᴇʀ>ʀᴇᴍᴏᴠᴇ <ᴘʟᴜɢɪɴ ɴᴀᴍᴇ>
+</p>
+</details>
 
 ### FOR PLUGIN EDITING TUTORIAL CLICK BELOW
  <a href="https://youtu.be/9PgSQzQn5Qc"><img src="https://img.shields.io/badge/-watch%20video-critical?style=for-the-badge&logo=youtube&logoColor=white">
@@ -288,9 +292,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
 
 <h3 align="center"> NON-MD PLUGINS <h1 l>
 <a href="https://github.com/mask-sir/LYFE-PLUGINLISTS"><img src="https://img.shields.io/badge/TOTAL%20NON%20MD%20PLUGINS%20%3D-51-blue">
-<details>
-<summary>nonmd</summary>
-<p>
+
 _________________________________________________
 <h3 align="center"> EDITOR PLUGINS 👽🌈 <h1 />
 <h4 align="center">  ᐉAUDIO  </h1>
@@ -1014,8 +1016,7 @@ Example
 ```
 <br />
 <br />
-</p>
-</details>
+
 __________________________________
 __________________________________
 
