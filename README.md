@@ -8,7 +8,7 @@
 <br /> 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=LYFE-PLUGINLISTS&label=Visitors%20count&color=10d9c3&style=plastic" alt="lyfe-plugin-list" /> </p>
 <details>
-<summary>HOW TO INSTALL PLUGIN??</summary>
+<summary>🤔HOW TO INSTALL PLUGIN??</summary>
 <p>
 
 <h2 align="center">  ➠ ʜᴏᴡ ᴛᴏ ɪɴsᴛᴀʟʟ ᴘʟᴜɢɪɴ
@@ -1024,10 +1024,11 @@ __________________________________
 ## [![Typing SVG align="center"](https://readme-typing-svg.herokuapp.com?font=Staatliches&color=0A0089&size=20&width=350&lines=We+know+there+are+a+lot+of+plugin;didnt+include+here+...;If+you+created+a+use+full+plugin;and+didnt+here+???;Contact+us+to+add+here+🙂;After+checking+the+use+and+scan;We+given+a+whatsapp+link+above;join+there+and+contact+us;If+there+is+a+problem+in+any+plugin;there+please+contact+us+......)](https://git.io/typing-svg) <br/>
 <br/>
 
-## ✆ Contact us
+## ✆ Contact us 
+<details>
+<summary>🎈INFO</summary>
+<p>
 
-#### ᴛʜɪs ʙʟᴏɢɢᴇʀ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ✎<br />
-◨ ᴍᴀsᴋ sᴇʀ◧ <br />
 [ᴄᴏᴘɪᴇᴅ ғʀᴏᴍ <a href="http://github.com/insanebwoi/lyfe-plugins-list">ɪɴsᴀɴʙᴡᴏɪ <a/> ]<br />
 ᴄᴀɴ ʏᴏᴜ ɢɪᴠᴇ ᴍᴇ ᴀ sᴛᴀʀ ✫  ☻ <br /> <br />
 
@@ -1035,5 +1036,12 @@ __________________________________
 『 ʟʏғᴇ sᴇʀ 』 <br />
 『 ᴍᴀsᴋ sᴇʀ』 <br />
 『 ɪɴsᴀɴᴇʙᴡᴏɪ 』 <br />
+
+</p>
+</details>
 <br />
+
+### ᴛʜɪs ʙʟᴏɢɢᴇʀ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ✎<br />
+◨ ᴍᴀsᴋ sᴇʀ◧ <br />
+
  ©Lyfe 00011 USER BOT
