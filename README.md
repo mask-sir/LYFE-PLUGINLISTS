@@ -230,11 +230,11 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 WHATSAPP-BOT-MD
 <br />
 <h3 align="center">  ᐉDELETE  </h1>
 
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/insanebwoi">INSANEBWOI</a>
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/lyfe00011">LYFE</a>
 
 
 ```js
-https://gist.github.com/mask-sir/d28bb7848ccf9cf8ffdfa41d06dba521/raw
+https://gist.github.com/lyfe00011/b73535d503bed41f5324344883cf0030
 ```
 ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : DELETE ANY MESSAGE SENDED BY ANY TIME,BY USER OR BOT<br /> 
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 WHATSAPP-BOT-MD
