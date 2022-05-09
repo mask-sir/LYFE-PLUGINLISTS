@@ -95,7 +95,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
 
 
 ```js
-https://gist.github.com/mask-sir/384dfd7361ce828f9c7c90f98d762f0e/raw
+https://gist.github.com/lyfe00011/e9595f37d80ad9ee6d61a11ecb820b8c
 ```
 ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : DOWNLOAD VIEW ONCE <br /> 
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
