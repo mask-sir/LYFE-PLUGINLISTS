@@ -39,7 +39,7 @@ _____________________________|
 __________________________________
 ___________________________________
 <h3 align="center">LYFE00011 MD BOT PLUGINS </h1>
-<a href="https://github.com/mask-sir/LYFE-PLUGINLISTS"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-19-green">
+<a href="https://github.com/mask-sir/LYFE-PLUGINLISTS"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-24-green">
 <h4 align="center">  ᐉ SETSUDO,DELSUDO,GETSUDO </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/lyfe00011">LYFE</a>
@@ -131,7 +131,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
 
 
 ```js
-https://gist.github.com/mask-sir/19b2e0c18f42cf0bb2358de19fa320e4
+https://gist.github.com/lyfe00011/404b6ef1a4a4ab0ac14b58845213680a
 ```
 ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : INSTAGRAM PROFILE SEARCH <br /> 
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
@@ -143,7 +143,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
 
 
 ```js
-https://gist.github.com/mask-sir/8f7adeb08e68641cc91cf1568e6b819a
+https://gist.github.com/lyfe00011/04b7af2187c54b5971f7d9b402296585
 ```
 ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : LIKE ALEXA <br /> 
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
@@ -155,7 +155,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
 
 
 ```js
-https://gist.github.com/mask-sir/9e3846ea9e1016606a5c1a85c2ae1e71
+https://gist.github.com/lyfe00011/e10e123e74777416db6ef4c2dbc6a98c
 ```
 ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : calculator <br /> 
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
