@@ -393,7 +393,7 @@ Example
 
 
 ```js
-https://gist.github.com/lyfe00011/9da1f023411e17a305e70425f2f17d5b
+https://gist.github.com/mask-sir/3663f4c788dd0ab1cb980a3d83edcdce/raw
 ```
 ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : <br /> 
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ 
