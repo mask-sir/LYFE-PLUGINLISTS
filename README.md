@@ -389,7 +389,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
 <br />
 
 <h3 align="center"> NON-MD PLUGINS <h1 l>
-<a href="https://github.com/mask-sir/LYFE-PLUGINLISTS"><img src="https://img.shields.io/badge/TOTAL%20NON%20MD%20PLUGINS%20%3D-51-blue">
+<a href="https://github.com/mask-sir/LYFE-PLUGINLISTS"><img src="https://img.shields.io/badge/TOTAL%20NON%20MD%20PLUGINS%20%3D-52-blue">
 
 _________________________________________________
 <h3 align="center"> EDITOR PLUGINS 👽🌈 <h1 />
@@ -843,7 +843,19 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
 <br />
 <br />
 <h3 align="center"> OTHER USEFULL PLUGINS😻 <h1 />
+<h4 align="center">  ᐉANIMY  </h1>
 
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/NJANRAZ">RAZ</a>
+
+
+```js
+https://gist.github.com/mask-sir/d6ef3531d9162a08657103f341609f35/raw
+
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : RANDOM ANIME PHOTO <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
+<br />
+<br />
 ### ᐉ BUTTON 
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/lyfe00011">LYFE</a>
