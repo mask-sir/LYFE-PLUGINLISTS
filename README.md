@@ -497,7 +497,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
 <br />
 
 <h3 align="center"> NON-MD PLUGINS <h1 l>
-<a href="https://github.com/mask-sir/LYFE-PLUGINLISTS"><img src="https://img.shields.io/badge/TOTAL%20NON%20MD%20PLUGINS%20%3D-52-blue">
+<a href="https://github.com/mask-sir/LYFE-PLUGINLISTS"><img src="https://img.shields.io/badge/TOTAL%20NON%20MD%20PLUGINS%20%3D-53-blue">
 
 _________________________________________________
 <h3 align="center"> EDITOR PLUGINS 👽🌈 <h1 />
@@ -726,6 +726,18 @@ Example
 <br />
 
 <h3 align="center" >PRANK & FAKE PLUGINS👻 <h1 />
+<h4 align="center">  ᐉJZHECK  </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/jasimjz">JZ MODS</a>
+
+
+```js
+https://gist.github.com/Jasimjz/c729a932c9d064f1a9ff9e45fe8c2501
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : PRANK PLUGIN FOR FUN <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011
+<br />
+<br />
 <h4 align="center"> ᐉ Scam typing&recording </h1>
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="https://github.com/SPARK-SHADOW">SPARK-SHADOW</a> <br /> 
 
