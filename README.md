@@ -173,7 +173,7 @@ https://gist.github.com/mask-sir/ac58caaa77c085655dcde155d7ed853b
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
 <br />
 <br />
-<h4 align="center">  ᐉ SLINK </h1>
+<h4 align="center">  ᐉ SHORT LINK(BITLY,TINY,CUTTLY,GG) </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
 
