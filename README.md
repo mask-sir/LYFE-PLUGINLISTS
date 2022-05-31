@@ -361,13 +361,13 @@ https://gist.github.com/lyfe00011/2ae359efa147d295dca8c1d53f88d947/raw
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
 <br />
 <br />
-<h4 align="center">  ᐉ GROUPJIDS </h1>
+<h4 align="center">  ᐉ GJIDS(ALL GRP JIDS) </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/lyfe00011">LYFE</a>
 
 
 ```js
-https://gist.github.com/lyfe00011/2ba742b9483c374cddcce9fb6382bb5f/raw
+https://gist.github.com/mask-sir/fd1aff44918d4dad149ec69fbb153a88
 ```
 ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : GET ALL GROUP JIDS IN YOUR CHAT <br /> 
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
