@@ -39,7 +39,7 @@ _____________________________|
 __________________________________
 ___________________________________
 <h3 align="center">LYFE00011 MD BOT PLUGINS </h1>
-<a href="https://github.com/mask-sir/LYFE-PLUGINLISTS"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-41-green">
+<a href="https://github.com/mask-sir/LYFE-PLUGINLISTS"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-42-green">
 <h4 align="center">  ᐉSPDF  </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
@@ -109,6 +109,18 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
 https://gist.github.com/mask-sir/d3d3c05dda769a90b6aba4eda6789a88/raw
 ```
 ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : GETS ANIME INFO <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
+<br />
+<br />
+<h4 align="center">  ᐉBARCODE  </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
+
+
+```js
+https://gist.github.com/mask-sir/e7c312256f2acaf136be33750ae089bd
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : CREATE BARCODE WITH THE GIVEN TEXT <br /> 
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
 <br />
 <br />
