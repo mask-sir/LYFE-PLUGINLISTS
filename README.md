@@ -39,7 +39,7 @@ _____________________________|
 __________________________________
 ___________________________________
 <h3 align="center">LYFE00011 MD BOT PLUGINS </h1>
-<a href="https://github.com/mask-sir/LYFE-PLUGINLISTS"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-44-green">
+<a href="https://github.com/mask-sir/LYFE-PLUGINLISTS"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-46-green">
 <h4 align="center">  ᐉGOOGLE SEARCH  </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
@@ -49,6 +49,30 @@ ___________________________________
 https://gist.github.com/mask-sir/84294e05f730823643195f76ab863b01
 ```
 ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : SEARCH IN GOOGLE <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
+<br />
+<br />
+<h4 align="center">  ᐉTINTU  </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
+
+
+```js
+https://gist.github.com/mask-sir/56c5a8c3ee9f46f1ef735c79160b1fd5
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :GET RANDOM TINTUMON JOCKS <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
+<br />
+<br />
+<h4 align="center">  ᐉANIME QUOTES  </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
+
+
+```js
+https://gist.github.com/mask-sir/9997b0f20efcea733055da44778b0586/raw
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :GEY RANDOM ANIME QUOTS <br /> 
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
 <br />
 <br />
