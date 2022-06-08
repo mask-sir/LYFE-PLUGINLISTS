@@ -58,7 +58,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
 
 
 ```js
-https://gist.github.com/mask-sir/95cc8b1437153d9057436f70b7c624d7/raw
+https://gist.github.com/mask-sir/33df016b85fa5cb2a8f4e68be73ca9ce/raw
 ```
 ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :send replied message to a specific jid <br /> 
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
