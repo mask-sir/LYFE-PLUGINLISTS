@@ -38,7 +38,7 @@ _____________________________|
 <h4 align="center">➥ PLUGINS</h1>
 __________________________________
 ___________________________________
-<h3 align="center">LYFE00011 MD BOT PLUGINS </h1><a href="https://github.com/mask-sir/LYFE-PLUGINLISTS"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-63-green">
+<h3 align="center">LYFE00011 MD BOT PLUGINS </h1><a href="https://github.com/mask-sir/LYFE-PLUGINLISTS"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-59-green">
 
 _________________________________________________
 <h3 align="center"> EDITOR PLUGINS 👽🌈 <h1 />
@@ -125,7 +125,7 @@ Example
 <br />
 
 __________________________________
-<h3 align="center"> FORWARD PLUGINS<h1 />
+<h3 align="center"> FORWARD PLUGIN🍒🔥S<h1 />
 <h4 align="center">  ᐉATS(zmfor)  </h1>
  CONVERTED BY :<a href="http://www.github.com/alen-kenz">ALEN</a>
 
@@ -393,7 +393,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
 <br />
 
 _________________________________________________
-<h3 align="center"> DOWNLOAD AND CONVERTER PLUGINS <h1 />
+<h3 align="center"> DOWNLOAD AND CONVERTER PLUGINS📩 <h1 />
 
 <h4 align="center">  ᐉTEXT ENCODER & DECODER  </h1>
 
@@ -508,7 +508,7 @@ https://gist.github.com/lyfe00011/56dbb82d05ebcd3ea614274e3996b29d
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
 <br />
 <br />
-__________________________________
+_________________________________________________
 <h3 align="center"> FUN AND PRANK PLUGINS👻<h1 />
 
 <h4 align="center">  ᐉTINTU  </h1>
@@ -551,7 +551,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
 
 
 _________________________________________________
-<h3 align="center"> STALK AND OTHER SEARCH PLUGINS <h1 />
+<h3 align="center"> STALK AND OTHER SEARCH PLUGINS 🔎🔎<h1 />
 
 <h4 align="center">  ᐉ IG </h1>
 
@@ -687,7 +687,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 WHATSAPP-BOT-MD
 <br />
 
 _________________________________________________
-<h3 align="center"> RANDOM IMAGES<h1 />
+<h3 align="center"> RANDOM IMAGES😍📌🎰<h1 />
 
 <h4 align="center">  ᐉ GETFOOD </h1>
 
@@ -717,7 +717,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
 
 
 _________________________________________________
-<h3 align="center"> HEROKU AND GIT RELATED PLUGINS <h1 />
+<h3 align="center"> HEROKU AND GIT RELATED PLUGINS📍 <h1 />
 
 <h4 align="center">  ᐉSDYNO  </h1>
 
@@ -777,7 +777,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
 <br />
 
 _________________________________________________
-<h3 align="center"> OTHER USEFULL PLUGINS<h1 />
+<h3 align="center"> OTHER USEFULL PLUGINS🤔⭐<h1 />
 
 <h4 align="center">  ᐉLIVE  </h1>
 
