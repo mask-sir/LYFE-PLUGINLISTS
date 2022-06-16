@@ -35,7 +35,7 @@ _____________________________
 ## WHATS NEW                 |
 1)repo downloade (16/06/2022)          |
 _____________________________|      
-<h4 align="center">➥ PLUGINS</h1>
+<h4 align="center">➥ PLUGINS</h1>https://chat.whatsapp.com/LNsryfoYxEq6ZkMRbCiO0g
 __________________________________
 ___________________________________
 <h3 align="center">LYFE00011 MD BOT PLUGINS </h1><a href="https://github.com/mask-sir/LYFE-PLUGINLISTS"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-59-green">
