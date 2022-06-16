@@ -33,12 +33,16 @@
   <div align="center"
 _____________________________
 ## WHATS NEW                 |
-1)emix (20/03/2022)          |
+1)repo downloade (16/06/2022)          |
 _____________________________|      
 <h4 align="center">➥ PLUGINS</h1>
 __________________________________
 ___________________________________
 <h3 align="center">LYFE00011 MD BOT PLUGINS </h1><a href="https://github.com/mask-sir/LYFE-PLUGINLISTS"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-63-green">
+
+_________________________________________________
+<h3 align="center"> EDITOR PLUGINS 👽🌈 <h1 />
+
 <h4 align="center">  ᐉMEME GENERATOR  </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
@@ -48,138 +52,6 @@ ___________________________________
 https://gist.github.com/mask-sir/72703ea0370cb35ddb203e3b5a119fd6
 ```
 ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :ADD TEXT TO YOUR PHOTO <br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
-<br />
-<br />
-<h4 align="center">  ᐉMODDROID SEARCH  </h1>
-
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
-
-
-```js
-https://gist.github.com/mask-sir/97a794d3f08e312b89e69491b7468988
-```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : SEARCH FOR MOD APPS IN MODDROID <br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
-<br />
-<br />
-<h4 align="center">  ᐉTEXT ENCODER & DECODER  </h1>
-
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
-
-
-```js
-https://gist.github.com/mask-sir/a5a81a5ed4b0c0b2e03afa48aacab4c2
-```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : TEXT TO BINARY CONVERTER AND DECODER <br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
-<br />
-<br />
-<h4 align="center">  ᐉ COFFEE </h1>
-
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
-
-
-```js
-https://gist.github.com/mask-sir/4a598e21e1083b0eef59dd5a23bc72ee/raw
-```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ: RANDOM COFFEE PIC <br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
-<br />
-<br />
-<h4 align="center">  ᐉLOLI  </h1>
-
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
-
-
-```js
-https://gist.github.com/mask-sir/61fe8c9b5c03e56c6f29d1e30cce74d8
-```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : RANDOM LOLI PICS <br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
-<br />
-<br />
-<h4 align="center">  ᐉ MUSIC </h1>
-
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/ajithaajitha952">NIKHIL SER</a>
-
-
-```js
-https://gist.github.com/mask-sir/475c2f579eb0887724677b2f4fa22901
-```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :GATHER MUSIC INFORMATION FROM ITUNES <br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
-<br />
-<br />
-<h4 align="center">  ᐉ TRANSLATOR </h1>
-
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
-
-
-```js
-https://gist.github.com/mask-sir/845b9de802e29f59c98a0a51d3045630
-```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : <br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ :GOOGLE TRANSLATOR lyfe00011-whatsapp-bot-md
-<br />
-<br />
-<h4 align="center">  ᐉCOUPLE PP  </h1>
-
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
-
-
-```js
-https://gist.github.com/mask-sir/092dd40b3aa2c9c19063eabceb0a01b2/raw
-```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :RANDOM COUPLE PHOTOS <br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
-<br />
-<br />
-<h4 align="center">  ᐉWEATHER  </h1>
-
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
-
-
-```js
-https://gist.github.com/mask-sir/34fd7afd5b1b37aea6786e4e4020c715
-```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :GET WEATHER INFORMATION <br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
-<br />
-<br />
-<h4 align="center">  ᐉDM  </h1>
-
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
-
-
-```js
-https://gist.github.com/mask-sir/1e255bc65f1fb7121a3b2ee7418e4431
-```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :pm message creator <br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
-<br />
-<br />
-<h4 align="center">  ᐉ WAIFU </h1>
-
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
-
-
-```js
-https://gist.github.com/mask-sir/842bdaa48f2b29eb52c6aabd171b1afe
-```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :random WAIFU Pics <br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
-<br />
-<br />
-<h4 align="center">  ᐉRESTART  </h1>
-
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/lyfe00011">LYFE</a>
-
-
-```js
-https://gist.github.com/lyfe00011/f432cf8e9420ff39a6217ac266fe625d/raw
-```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :quick restart <br /> 
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
 <br />
 <br />
@@ -195,18 +67,7 @@ https://gist.github.com/mask-sir/bcc22c246e32a2d9424356d29b999856
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
 <br />
 <br />
-<h4 align="center">  ᐉSTATUS SAVER </h1>
 
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
-
-
-```js
-https://gist.github.com/mask-sir/33df016b85fa5cb2a8f4e68be73ca9ce/raw
-```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :send replied message to a specific jid <br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
-<br />
-<br />
 <h4 align="center">  ᐉGIF  </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
@@ -216,101 +77,6 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
 https://gist.github.com/lyfe00011/9a1ae6e4a7ec2425e330e5040cda2e43/raw
 ```
 ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : CONVERT VIDEO TO GIF <br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
-<br />
-<br />
-<h4 align="center">  ᐉ DICE </h1>
-
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
-
-
-```js
-https://gist.github.com/mask-sir/4f5a31ea7b48129787e142118abddeac/raw
-```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :DICE ROLLING GAME <br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
-<br />
-<br />
-<h align="center">  ᐉFAKE IDENTITY  </h1>
-
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/ajithaajitha952">NIKHIL SER</a>
-
-
-```js
-https://gist.github.com/ajithaajitha952/dc037ee82b8be783eb67bc586199e3f7/raw
-```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : GIVES  FAKE  DETAIL <br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
-<br />
-<br />
-<h4 align="center">  ᐉGOOGLE SEARCH  </h1>
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
-
-
-```js
-https://gist.github.com/mask-sir/84294e05f730823643195f76ab863b01
-```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : SEARCH IN GOOGLE <br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
-<br />
-<br />
-<h4 align="center">  ᐉTINTU  </h1>
-
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
-
-
-```js
-https://gist.github.com/mask-sir/56c5a8c3ee9f46f1ef735c79160b1fd5
-```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :GET RANDOM TINTUMON JOCKS <br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
-<br />
-<br />
-<h4 align="center">  ᐉANIME QUOTES  </h1>
-
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
-
-
-```js
-https://gist.github.com/mask-sir/9997b0f20efcea733055da44778b0586/raw
-```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :GEY RANDOM ANIME QUOTS <br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
-<br />
-<br />
-<h4 align="center">  ᐉQR  </h1>
-
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
-
-
-```js
-https://gist.github.com/mask-sir/822adcb174899bf9038cedb5cb20a9ec/raw
-```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :READS THE QR CODE <br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
-<br />
-<br />
-<h4 align="center">  ᐉSPDF  </h1>
-
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
-
-
-```js
-https://gist.github.com/mask-sir/e0b14ba502c2c69767cbe95502cdabbc
-```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :convert given url to pdf <br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
-<br />
-<br />
-<h4 align="center">  ᐉEMOJI TO PNG  </h1>
-
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
-
-
-```js
-https://gist.github.com/mask-sir/91050d13b5dd11029c66ba49f738e5c0
-```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : CONVERT EMOJI TO PNG <br /> 
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
 <br />
 <br />
@@ -326,30 +92,233 @@ https://gist.github.com/mask-sir/078fd972ac270b08ab23f39413e1fdc8
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
 <br />
 <br />
-<h4 align="center">  ᐉ GETFOOD </h1>
+<h4 align="center">  ᐉ TEXTMAKER </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/lyfe00011">LYFE</a>
+
+
+```js
+https://gist.github.com/lyfe00011/120eee18e3c6b3c5b9a351120d9bf496
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :MAKE TEXT EFFECT PHOTS <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
+<br />
+<br />
+<h4 align="center">  ᐉVOICE CHANGER  </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/lyfe00011">LYFE</a>
+
+
+```js
+https://gist.github.com/mask-sir/8184816cacab0116bb39f32b3ad9aaf7
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : AUDIO EDITOR <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
+<br />
+<br />
+**Use by Given format** <br/>
+Example
+```js
+.fast / .robot
+```
+<br />
+<br />
+
+__________________________________
+<h3 align="center"> FORWARD PLUGINS<h1 />
+<h4 align="center">  ᐉATS(zmfor)  </h1>
+ CONVERTED BY :<a href="http://www.github.com/alen-kenz">ALEN</a>
+
+
+```js
+https://gist.github.com/mask-sir/7f8fa479c8c362bc1b2f1c50792da251/raw
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : MFORWARD WITH INSTGRAM LINK PREVIEW <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
+<br />
+<br />
+**Use by Given format** <br/>
+Example
+```js
+.Ats MASK SER;BY MASK SER; ZMFOR GOING TO RELEASE ;111111111111;4005127;www.instagram.com/reels/osnsj;https://i.imgur.com/3CQLj9K.jpeg;https://i.imgur.com/b08knMk.jpeg;120363041103519586@g.us
+```
+<br />
+<br />
+
+<h4 align="center">  ᐉMFORWARD (with link preview) </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
 
 
 ```js
-https://gist.github.com/mask-sir/0db1bdde00361b9b298b8b1857711375
+https://gist.github.com/mask-sir/0ac8d675f903a8ad4e38d9640b477d64
 ```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : RANDOM FOOD PHOTOS <br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : FORWARD REPLIED MESSAGE<br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 WHATSAPP-BOT-MD
 <br />
 <br />
-<h4 align="center">  ᐉGETQR  </h1>
+
+
+__________________________________
+<h3 align="center"> 💚WHATSAPP RELATED PLUGINS 💚<h1 />
+<h4 align="center">  ᐉDM  </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
 
 
 ```js
-https://gist.github.com/mask-sir/d08a0878ece4a4f59752658822772234
+https://gist.github.com/mask-sir/1e255bc65f1fb7121a3b2ee7418e4431
 ```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :GET LYFE-MD BOT QR IN WHATSPP <br /> 
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :pm message creator <br /> 
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
 <br />
 <br />
+<h4 align="center">  ᐉSTATUS SAVER </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
+
+
+```js
+https://gist.github.com/mask-sir/33df016b85fa5cb2a8f4e68be73ca9ce/raw
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :send replied message to a specific jid <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
+<br />
+<br />
+<h4 align="center">  ᐉEMOJI TO PNG  </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
+
+
+```js
+https://gist.github.com/mask-sir/91050d13b5dd11029c66ba49f738e5c0
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : CONVERT EMOJI TO PNG <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
+<br />
+<br />
+<h4 align="center">  ᐉ STATUS SAVER(#) </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/lyfe00011">LYFE</a>
+
+
+```js
+https://gist.github.com/mask-sir/55e9f5780ec8168e2be00c45a9dffb91/raw
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : SAVES THE REPLIED STATUS <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
+<br />
+<br />
+<h4 align="center">  ᐉEMIX  </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/lyfe000111">LYFE</a>
+
+
+```js
+https://gist.github.com/lyfe00011/03fc0de72c912bb0784cd225e0b20490
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :MIXES EMOJIS <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
+<br />
+<br />
+<h4 align="center">  ᐉ VV </h1>
+
+ CONVERTED BY :<a href="http://www.github.com/mask-sir">MASK SER</a>
+
+
+```js
+https://gist.github.com/lyfe00011/e9595f37d80ad9ee6d61a11ecb820b8c
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : DOWNLOAD VIEW ONCE <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
+<br />
+<br />
+<h4 align="center">  ᐉ CAPTION </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/lyfe00011">LYFE</a>
+
+
+```js
+https://gist.github.com/lyfe00011/2ae359efa147d295dca8c1d53f88d947/raw
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : COPY OR ADD CAPTION IN IMAGE OR VIDEO <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
+<br />
+<br />
+<h4 align="center">  ᐉ GJIDS(ALL GRP JIDS) </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/lyfe00011">LYFE</a>
+
+
+```js
+https://gist.github.com/mask-sir/fd1aff44918d4dad149ec69fbb153a88
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : GET ALL GROUP JIDS IN YOUR CHAT <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
+<br />
+<br />
+<h4 align="center">  ᐉWAME  </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
+
+
+```js
+https://gist.github.com/Alien-alfa/d5e3bc953bcc6e1efaf8a9790a60724a/raw
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : wame generator  <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
+<br />
+<br />
+<h3 align="center">  ᐉDELETE  </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/lyfe00011">LYFE</a>
+
+
+```js
+https://gist.github.com/lyfe00011/b73535d503bed41f5324344883cf0030
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : DELETE ANY MESSAGE SENDED BY ANY TIME,BY USER OR BOT<br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 WHATSAPP-BOT-MD
+<br />
+<br />
+<h4 align="center">  ᐉGROUP JIDS </h1>
+ 
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/insanebwoi">INSANEBWOI</a>
+
+
+```js
+https://gist.github.com/mask-sir/85c95652f85958d307297cd3f5912070
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : GET JIDS OF THE GROUP MEMBERS <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 WHATSAPP-BOT-MD
+<br />
+<br />
+<h4 align="center">  ᐉMEE </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/ALEN-KENZ">ALEN</a>
+
+
+```js
+https://gist.github.com/Alen-kenz/352e450d19dd8f0cf2ba6bc18752e5b4/raw
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :SELF MENTION<br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 WHATSAPP-BOT-MD
+<br />
+<br />
+<h4 align="center">  ᐉ DOC </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/lyfe00011">LYFE</a>
+
+
+```js
+https://gist.github.com/lyfe00011/a8f926710a28706679158887649ea145
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : CONVERTE MESSAGES INTO DOCUMENT WITH NAME <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
+<br />
+<br />
+_________________________________________________
+<h3 align="center"> ANIME RELATED 👽🌈 <h1 />
 <h4 align="center">  ᐉANIME INFO </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
@@ -362,6 +331,106 @@ https://gist.github.com/mask-sir/d3d3c05dda769a90b6aba4eda6789a88/raw
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
 <br />
 <br />
+<h4 align="center">  ᐉLOLI  </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
+
+
+```js
+https://gist.github.com/mask-sir/61fe8c9b5c03e56c6f29d1e30cce74d8
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : RANDOM LOLI PICS <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
+<br />
+<br />
+<h4 align="center">  ᐉCOUPLE PP  </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
+
+
+```js
+https://gist.github.com/mask-sir/092dd40b3aa2c9c19063eabceb0a01b2/raw
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :RANDOM COUPLE PHOTOS <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
+<br />
+<br />
+<h4 align="center">  ᐉ WAIFU </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
+
+
+```js
+https://gist.github.com/mask-sir/842bdaa48f2b29eb52c6aabd171b1afe
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :random WAIFU Pics <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
+<br />
+<br />
+<h4 align="center">  ᐉANIME QUOTES  </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
+
+
+```js
+https://gist.github.com/mask-sir/9997b0f20efcea733055da44778b0586/raw
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :GEY RANDOM ANIME QUOTS <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
+<br />
+<br />
+<h4 align="center">  ᐉ ANIMY </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
+
+
+```js
+https://gist.github.com/mask-sir/824a55b1f0609ac8f2a4ada7e90d664c
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :RANDOM ANIME IMAGE WITH QUOTE <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
+<br />
+<br />
+
+_________________________________________________
+<h3 align="center"> DOWNLOAD AND CONVERTER PLUGINS <h1 />
+
+<h4 align="center">  ᐉTEXT ENCODER & DECODER  </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
+
+
+```js
+https://gist.github.com/mask-sir/a5a81a5ed4b0c0b2e03afa48aacab4c2
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : TEXT TO BINARY CONVERTER AND DECODER <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
+<br />
+<br />
+<h4 align="center">  ᐉ TRANSLATOR </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
+
+
+```js
+https://gist.github.com/mask-sir/845b9de802e29f59c98a0a51d3045630
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ :GOOGLE TRANSLATOR lyfe00011-whatsapp-bot-md
+<br />
+<br />
+<h4 align="center">  ᐉSPDF  </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
+
+
+```js
+https://gist.github.com/mask-sir/e0b14ba502c2c69767cbe95502cdabbc
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :convert given url to pdf <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
+<br />
+<br />
 <h4 align="center">  ᐉBARCODE  </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
@@ -371,6 +440,128 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
 https://gist.github.com/mask-sir/e7c312256f2acaf136be33750ae089bd
 ```
 ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : CREATE BARCODE WITH THE GIVEN TEXT <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
+<br />
+<br />
+
+<h4 align="center">  ᐉCDATE  </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
+
+
+```js
+https://gist.github.com/mask-sir/deeac83034bbc5daa127653c9761279d
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : MEASURE THE TIME GAP <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
+<br />
+<br />
+<h4 align="center">  ᐉ TG </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/lyfe00011">LYFE</a>
+
+
+```js
+https://gist.github.com/lyfe00011/785b3adb2796cae7b12912bf2500b2cb/raw
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : DOWNLOAD STICKER FROM TELEGRAM <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
+<br />
+<br />
+<h4 align="center">  ᐉ RVTXT</h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
+
+
+```js
+https://gist.github.com/mask-sir/a9840a826e93c8f1c0dd051808e3a440
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : REVERSE THE TEXT<br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
+<br />
+<br />
+
+
+<h4 align="center">  ᐉ SHORT LINK(BITLY,TINY,CUTTLY,GG) </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
+
+
+```js
+https://gist.github.com/mask-sir/0a4317cc375e57941aec4376c3d65c60
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : SHORTING THE LINK <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
+<br />
+<br />
+
+
+<h4 align="center">  ᐉ PLAY </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/lyfe00011">LYFE</a>
+
+
+```js
+https://gist.github.com/lyfe00011/56dbb82d05ebcd3ea614274e3996b29d
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : DOWNLOAD SONG FROM YOUTUBE <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
+<br />
+<br />
+__________________________________
+<h3 align="center"> FUN AND PRANK PLUGINS👻<h1 />
+
+<h4 align="center">  ᐉTINTU  </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
+
+
+```js
+https://gist.github.com/mask-sir/56c5a8c3ee9f46f1ef735c79160b1fd5
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :GET RANDOM TINTUMON JOCKS <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
+<br />
+<br />
+<h4 align="center">  ᐉ DICE </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
+
+
+```js
+https://gist.github.com/mask-sir/4f5a31ea7b48129787e142118abddeac/raw
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :DICE ROLLING GAME <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
+<br />
+<br />
+
+<h4 align="center">  ᐉHECK  </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/fasilvkn">FASIL</a>
+
+
+```js
+https://gist.github.com/fasilvkn/181ed05d6c06f8ae4ade81434024369c/raw
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : jst a prank plugin <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
+<br />
+<br />
+
+
+_________________________________________________
+<h3 align="center"> STALK AND OTHER SEARCH PLUGINS <h1 />
+
+<h4 align="center">  ᐉ IG </h1>
+
+ CONVERTED BY:<a href="http://www.github.com/lyfe00011">MASK SER</a>
+
+
+```js
+https://gist.github.com/lyfe00011/404b6ef1a4a4ab0ac14b58845213680a
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : INSTAGRAM PROFILE SEARCH <br /> 
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
 <br />
 <br />
@@ -410,161 +601,51 @@ https://gist.github.com/mask-sir/b2d7730b5c259fc5cf17438b3ca8e970/raw
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
 <br />
 <br />
-<h4 align="center">  ᐉCDATE  </h1>
+<h4 align="center">  ᐉMODDROID SEARCH  </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
 
 
 ```js
-https://gist.github.com/mask-sir/deeac83034bbc5daa127653c9761279d
+https://gist.github.com/mask-sir/97a794d3f08e312b89e69491b7468988
 ```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : MEASURE THE TIME GAP <br /> 
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : SEARCH FOR MOD APPS IN MODDROID <br /> 
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
 <br />
 <br />
-<h4 align="center">  ᐉLIVE  </h1>
+<h4 align="center">  ᐉ MUSIC </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/ajithaajitha952">NIKHIL SER</a>
+
+
+```js
+https://gist.github.com/mask-sir/475c2f579eb0887724677b2f4fa22901
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :GATHER MUSIC INFORMATION FROM ITUNES <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
+<br />
+<br />
+<h4 align="center">  ᐉWEATHER  </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
 
 
 ```js
-https://gist.github.com/mask-sir/a232babba5a1f5e6f92a2d67f863cd91
+https://gist.github.com/mask-sir/34fd7afd5b1b37aea6786e4e4020c715
 ```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : LIVE TIME <br /> 
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :GET WEATHER INFORMATION <br /> 
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
 <br />
 <br />
-<h4 align="center">  ᐉ STATUS SAVER(#) </h1>
+<h align="center">  ᐉFAKE IDENTITY  </h1>
 
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/lyfe00011">LYFE</a>
-
-
-```js
-https://gist.github.com/mask-sir/55e9f5780ec8168e2be00c45a9dffb91/raw
-```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : SAVES THE REPLIED STATUS <br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
-<br />
-<br />
-<h4 align="center">  ᐉ TG </h1>
-
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/lyfe00011">LYFE</a>
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/ajithaajitha952">NIKHIL SER</a>
 
 
 ```js
-https://gist.github.com/lyfe00011/785b3adb2796cae7b12912bf2500b2cb/raw
+https://gist.github.com/ajithaajitha952/dc037ee82b8be783eb67bc586199e3f7/raw
 ```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : DOWNLOAD STICKER FROM TELEGRAM <br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
-<br />
-<br />
-<h4 align="center">  ᐉ RVTXT</h1>
-
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
-
-
-```js
-https://gist.github.com/mask-sir/a9840a826e93c8f1c0dd051808e3a440
-```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : REVERSE THE TEXT<br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
-<br />
-<br />
-<h4 align="center">  ᐉ ANIMY </h1>
-
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
-
-
-```js
-https://gist.github.com/mask-sir/824a55b1f0609ac8f2a4ada7e90d664c
-```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :RANDOM ANIME IMAGE WITH QUOTE <br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
-<br />
-<br />
-<h4 align="center">  ᐉ GQR </h1>
-
- CONVERTED BY :<a href="http://www.github.com/lyfe00011">MASK SER</a>
-
-
-```js
-https://gist.github.com/mask-sir/ac58caaa77c085655dcde155d7ed853b
-```
-
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : TEXT TO QR CODE<br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
-<br />
-<br />
-<h4 align="center">  ᐉ SHORT LINK(BITLY,TINY,CUTTLY,GG) </h1>
-
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
-
-
-```js
-https://gist.github.com/mask-sir/0a4317cc375e57941aec4376c3d65c60
-```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : SHORTING THE LINK <br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
-<br />
-<br />
-<h4 align="center">  ᐉ SETSUDO,DELSUDO,GETSUDO </h1>
-
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/lyfe00011">LYFE</a>
-
-
-```js
-https://gist.github.com/lyfe00011/c9b86f8327ca781160fbad2f4d0fbd66
-```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : sets/dels/gets sudo without entering heroku <br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
-<br />
-<br />
-<h4 align="center">  ᐉEMIX  </h1>
-
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/lyfe000111">LYFE</a>
-
-
-```js
-https://gist.github.com/lyfe00011/03fc0de72c912bb0784cd225e0b20490
-```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :MIXES EMOJIS <br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
-<br />
-<br />
-
-<h4 align="center">  ᐉ DOC </h1>
-
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/lyfe00011">LYFE</a>
-
-
-```js
-https://gist.github.com/lyfe00011/a8f926710a28706679158887649ea145
-```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : CONVERTE MESSAGES INTO DOCUMENT WITH NAME <br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
-<br />
-<br />
-<h4 align="center">  ᐉ PLAY </h1>
-
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/lyfe00011">LYFE</a>
-
-
-```js
-https://gist.github.com/lyfe00011/56dbb82d05ebcd3ea614274e3996b29d
-```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : DOWNLOAD SONG FROM YOUTUBE <br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
-<br />
-<br />
-<h4 align="center">  ᐉ VV </h1>
-
- CONVERTED BY :<a href="http://www.github.com/mask-sir">MASK SER</a>
-
-
-```js
-https://gist.github.com/lyfe00011/e9595f37d80ad9ee6d61a11ecb820b8c
-```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : DOWNLOAD VIEW ONCE <br /> 
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : GIVES  FAKE  DETAIL <br /> 
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
 <br />
 <br />
@@ -580,30 +661,6 @@ https://gist.github.com/mask-sir/6cf06b4fc7ef6c3bbe2ba8eb8df138b6/raw
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsappbot-md
 <br />
 <br />
-<h4 align="center">  ᐉTEXT  </h1>
-
- CONVERTED BY :<a href="http://www.github.com/mask-sir">MASK SER</a>
-
-
-```js
-https://gist.github.com/mask-sir/d8030c5129944cf6b1bcaa2c8564cef4/raw
-```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : TEXT TO TEXT <br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
-<br />
-<br />
-<h4 align="center">  ᐉ IG </h1>
-
- CONVERTED BY:<a href="http://www.github.com/lyfe00011">MASK SER</a>
-
-
-```js
-https://gist.github.com/lyfe00011/404b6ef1a4a4ab0ac14b58845213680a
-```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : INSTAGRAM PROFILE SEARCH <br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
-<br />
-<br />
 <h4 align="center">  ᐉJEAN  </h1>
 
  CONVERTED BY:<a href="http://www.github.com/lyfe00011">MASK SER</a>
@@ -616,6 +673,130 @@ https://gist.github.com/lyfe00011/04b7af2187c54b5971f7d9b402296585
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
 <br />
 <br />
+<h4 align="center">  ᐉ YTL </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/lyfe00011"> LYFE</a>
+
+
+```js
+https://gist.github.com/mask-sir/1a7ff517accca3dc4d800f23506e93d8
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : YOUTUBE SEARCH WITH LIST <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 WHATSAPP-BOT-MD
+<br />
+<br />
+
+_________________________________________________
+<h3 align="center"> RANDOM IMAGES<h1 />
+
+<h4 align="center">  ᐉ GETFOOD </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
+
+
+```js
+https://gist.github.com/mask-sir/0db1bdde00361b9b298b8b1857711375
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : RANDOM FOOD PHOTOS <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
+<br />
+<br />
+<h4 align="center">  ᐉ COFFEE </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
+
+
+```js
+https://gist.github.com/mask-sir/4a598e21e1083b0eef59dd5a23bc72ee/raw
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ: RANDOM COFFEE PIC <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
+<br />
+<br />
+
+
+
+_________________________________________________
+<h3 align="center"> HEROKU AND GIT RELATED PLUGINS <h1 />
+
+<h4 align="center">  ᐉSDYNO  </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/lyfe00011">LYFE</a>
+
+
+```js
+https://gist.github.com/lyfe00011/9a2bd716a32551dd5de14a5557f495fe/raw
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : SCHEDULE DYNO <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
+<br />
+<br />
+**Use by Given format** <br/>
+Example
+```js
+.sdyno start 00 00 // .sdyno stop 00 00
+```
+<br />
+<br />
+<h4 align="center">  ᐉ SETSUDO,DELSUDO,GETSUDO </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/lyfe00011">LYFE</a>
+
+
+```js
+https://gist.github.com/lyfe00011/c9b86f8327ca781160fbad2f4d0fbd66
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : sets/dels/gets sudo without entering heroku <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
+<br />
+<br />
+
+<h4 align="center">  ᐉGETQR  </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
+
+
+```js
+https://gist.github.com/mask-sir/d08a0878ece4a4f59752658822772234
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :GET LYFE-MD BOT QR IN WHATSPP <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
+<br />
+<br />
+<h4 align="center">  ᐉRESTART  </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/lyfe00011">LYFE</a>
+
+
+```js
+https://gist.github.com/lyfe00011/f432cf8e9420ff39a6217ac266fe625d/raw
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :quick restart <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
+<br />
+<br />
+
+_________________________________________________
+<h3 align="center"> OTHER USEFULL PLUGINS<h1 />
+
+<h4 align="center">  ᐉLIVE  </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
+
+
+```js
+https://gist.github.com/mask-sir/a232babba5a1f5e6f92a2d67f863cd91
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : LIVE TIME <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
+<br />
+<br />
+
+
+
+
+
+
 <h4 align="center">  ᐉ CALC </h1>
 
  CONVERTED BY :<a href="http://www.github.com/lyfe00011">MASK SER</a>
@@ -640,189 +821,29 @@ https://gist.github.com/lyfe00011/470c297040daef2c7453ba4807f60e1b
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
 <br />
 <br />
-<h4 align="center">  ᐉ TEXTMAKER </h1>
-
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/lyfe00011">LYFE</a>
 
 
-```js
-https://gist.github.com/lyfe00011/120eee18e3c6b3c5b9a351120d9bf496
-```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :MAKE TEXT EFFECT PHOTS <br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
-<br />
-<br />
-<h4 align="center">  ᐉSDYNO  </h1>
-
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/lyfe00011">LYFE</a>
 
 
-```js
-https://gist.github.com/lyfe00011/9a2bd716a32551dd5de14a5557f495fe/raw
-```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : SCHEDULE DYNO <br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
-<br />
-<br />
-**Use by Given format** <br/>
-Example
-```js
-.sdyno start 00 00 // .sdyno stop 00 00
-```
-<br />
-<br />
-<h4 align="center">  ᐉ CAPTION </h1>
-
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/lyfe00011">LYFE</a>
 
 
-```js
-https://gist.github.com/lyfe00011/2ae359efa147d295dca8c1d53f88d947/raw
-```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : COPY OR ADD CAPTION IN IMAGE OR VIDEO <br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
-<br />
-<br />
-<h4 align="center">  ᐉ GJIDS(ALL GRP JIDS) </h1>
-
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/lyfe00011">LYFE</a>
 
 
-```js
-https://gist.github.com/mask-sir/fd1aff44918d4dad149ec69fbb153a88
-```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : GET ALL GROUP JIDS IN YOUR CHAT <br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
-<br />
-<br />
-<h4 align="center">  ᐉATS(zmfor)  </h1>
- CONVERTED BY :<a href="http://www.github.com/alen-kenz">ALEN</a>
 
 
-```js
-https://gist.github.com/mask-sir/7f8fa479c8c362bc1b2f1c50792da251/raw
-```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : MFORWARD WITH INSTGRAM LINK PREVIEW <br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
-<br />
-<br />
-**Use by Given format** <br/>
-Example
-```js
-.Ats MASK SER;BY MASK SER; ZMFOR GOING TO RELEASE ;111111111111;4005127;www.instagram.com/reels/osnsj;https://i.imgur.com/3CQLj9K.jpeg;https://i.imgur.com/b08knMk.jpeg;120363041103519586@g.us
-```
-<br />
-<br />
-<h4 align="center">  ᐉVOICE CHANGER  </h1>
-
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/lyfe00011">LYFE</a>
 
 
-```js
-https://gist.github.com/mask-sir/8184816cacab0116bb39f32b3ad9aaf7
-```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : AUDIO EDITOR <br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
-<br />
-<br />
-**Use by Given format** <br/>
-Example
-```js
-.fast / .robot
-```
-<br />
-<br />
-<h4 align="center">  ᐉWAME  </h1>
-
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
 
 
-```js
-https://gist.github.com/Alien-alfa/d5e3bc953bcc6e1efaf8a9790a60724a/raw
-```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : wame generator  <br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
-<br />
-<br />
-<h4 align="center">  ᐉMFORWARD (with link preview) </h1>
-
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
 
 
-```js
-https://gist.github.com/mask-sir/0ac8d675f903a8ad4e38d9640b477d64
-```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : FORWARD REPLIED MESSAGE<br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 WHATSAPP-BOT-MD
-<br />
-<br />
-<h3 align="center">  ᐉDELETE  </h1>
-
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/lyfe00011">LYFE</a>
-
-
-```js
-https://gist.github.com/lyfe00011/b73535d503bed41f5324344883cf0030
-```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : DELETE ANY MESSAGE SENDED BY ANY TIME,BY USER OR BOT<br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 WHATSAPP-BOT-MD
-<br />
-<br />
-<h4 align="center">  ᐉGROUP JIDS </h1>
- 
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/insanebwoi">INSANEBWOI</a>
-
-
-```js
-https://gist.github.com/mask-sir/85c95652f85958d307297cd3f5912070
-```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : GET JIDS OF THE GROUP MEMBERS <br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 WHATSAPP-BOT-MD
-<br />
-<br />
-<h4 align="center">  ᐉMEE </h1>
-
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/ALEN-KENZ">ALEN</a>
-
-
-```js
-https://gist.github.com/Alen-kenz/352e450d19dd8f0cf2ba6bc18752e5b4/raw
-```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :SELF MENTION<br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 WHATSAPP-BOT-MD
-<br />
-<br />
-<h4 align="center">  ᐉ YTL </h1>
-
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/lyfe00011"> LYFE</a>
-
-
-```js
-https://gist.github.com/mask-sir/1a7ff517accca3dc4d800f23506e93d8
-```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : YOUTUBE SEARCH WITH LIST <br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 WHATSAPP-BOT-MD
-<br />
-<br />
-
-<h4 align="center">  ᐉHECK  </h1>
-
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/fasilvkn">FASIL</a>
-
-
-```js
-https://gist.github.com/fasilvkn/181ed05d6c06f8ae4ade81434024369c/raw
-```
-ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : jst a prank plugin <br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
-<br />
-<br />
-
+__________________________________
 <h3 align="center"> NON-MD PLUGINS <h1 l>
 <a href="https://github.com/mask-sir/LYFE-PLUGINLISTS"><img src="https://img.shields.io/badge/TOTAL%20NON%20MD%20PLUGINS%20%3D-53-blue">
 
 _________________________________________________
 <h3 align="center"> EDITOR PLUGINS 👽🌈 <h1 />
+
 <h4 align="center">  ᐉAUDIO  </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/lyfe00011">LYFE</a>
