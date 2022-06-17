@@ -23,6 +23,11 @@
 </p>
 </details>
 
+## Index
+
+* [EDITOR](#editor-plugins)
+* [FORWARD PLUGINS](#forward-plugins)
+
 ### FOR PLUGIN EDITING TUTORIAL CLICK BELOW
  <a href="https://youtu.be/9PgSQzQn5Qc"><img src="https://img.shields.io/badge/-watch%20video-critical?style=for-the-badge&logo=youtube&logoColor=white">
    <br>
@@ -41,7 +46,7 @@ ___________________________________
 <h3 align="center">LYFE00011 MD BOT PLUGINS </h1><a href="https://github.com/mask-sir/LYFE-PLUGINLISTS"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-67-green">
 
 _________________________________________________
-<h3 align="center"> EDITOR PLUGINS 👽🌈 <h1 />
+### EDITOR-PLUGINS😍📌
 <h4 align="center">  ᐉBANNER TEPLATES  </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/MASK-SIR">MASK SER</a>
@@ -136,7 +141,7 @@ Example
 <br />
 
 __________________________________
-<h3 align="center"> FORWARD PLUGIN🍒🔥S<h1 />
+### FORWARD PLUGINS🍒🔥
 <h4 align="center">  ᐉATS(zmfor)  </h1>
  CONVERTED BY :<a href="http://www.github.com/alen-kenz">ALEN</a>
 
