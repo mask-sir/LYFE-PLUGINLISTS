@@ -38,7 +38,7 @@ _____________________________|
 <h4 align="center">➥ PLUGINS</h1>
 __________________________________
 ___________________________________
-<h3 align="center">LYFE00011 MD BOT PLUGINS </h1><a href="https://github.com/mask-sir/LYFE-PLUGINLISTS"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-60-green">
+<h3 align="center">LYFE00011 MD BOT PLUGINS </h1><a href="https://github.com/mask-sir/LYFE-PLUGINLISTS"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-63-green">
 
 _________________________________________________
 <h3 align="center"> EDITOR PLUGINS 👽🌈 <h1 />
@@ -701,6 +701,42 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 WHATSAPP-BOT-MD
 _________________________________________________
 <h3 align="center"> RANDOM IMAGES😍📌🎰<h1 />
 
+<h4 align="center">  ᐉMOUNTAIN  </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
+
+
+```js
+https://gist.github.com/mask-sir/f1fc27c14aefeea15372f1200bd638ad
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : RANDOM MOUNTAIN PICS <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
+<br />
+<br />
+<h4 align="center">  ᐉPUBG WALLPAPER  </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/ajithaajitha952">NIKHIL SER</a>
+
+
+```js
+https://gist.github.com/ajithaajitha952/2f225f0fe0d31a5e7bdeea24077b56ca
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : RANDOM PUBG WALLPAPERS <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
+<br />
+<br />
+<h4 align="center">  ᐉGAME WALLPAPERS  </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/ajithaajitha952">NIKHIL SER</a>
+
+
+```js
+https://gist.github.com/ajithaajitha952/b08408cbfe4121a96cc9681f2402173b
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : RANDOM GAME WALLPAPERS <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
+<br />
+<br />
 <h4 align="center">  ᐉ GETFOOD </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
