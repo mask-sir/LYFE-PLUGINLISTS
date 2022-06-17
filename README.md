@@ -28,12 +28,14 @@
 * [FORWARD PLUGINS](#forward-plugins)
 * [WHATSAPP RELATED](#whatsapp-related-plugins)
 * [ANIME](#anime-plugins) 
-* [DOWNLOAD](#download-and-converter-plugins)
+* [DOWNLOAD PLUGINS](#download-and-converter-plugins)
 * [CONVERTERS](#download-and-converter-plugins)
 * [FUN & PRANK](#fun-and-prank-plugins)
-* [STALKER](#stalk-and-search-plugins)
-* [SEARCH](#stalk-and-search-plugins) 
-* [RANDOM](#random-images) 
+* [STALKER](#stalker-and-search-plugins)
+* [SEARCH](#stalker-and-search-plugins) 
+* [RANDOM IMAGES](#random-images)
+* [HEROKU RELATED](#heroku-and-git-related-plugins)
+* [OTHER PLUGINS](#other-usefull-plugins) 
 
 ### FOR PLUGIN EDITING TUTORIAL CLICK BELOW
  <a href="https://youtu.be/9PgSQzQn5Qc"><img src="https://img.shields.io/badge/-watch%20video-critical?style=for-the-badge&logo=youtube&logoColor=white">
@@ -609,7 +611,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
 
 
 _________________________________________________
-### STALK AND SEARCH PLUGINS 🔎🔎
+### STALKER AND SEARCH PLUGINS🔎🔎
 
 <h4 align="center">  ᐉMOBILE INFO  </h1>
 
@@ -823,7 +825,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
 
 
 _________________________________________________
-<h3 align="center"> HEROKU AND GIT RELATED PLUGINS📍 <h1 />
+### HEROKU AND GIT RELATED PLUGINS📍
 
 <h4 align="center">  ᐉSDYNO  </h1>
 
@@ -883,7 +885,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
 <br />
 
 _________________________________________________
-<h3 align="center"> OTHER USEFULL PLUGINS🤔⭐<h1 />
+### OTHER USEFULL PLUGINS🤔⭐
 
 <h4 align="center">  ᐉLIVE  </h1>
 
