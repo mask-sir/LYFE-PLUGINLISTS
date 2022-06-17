@@ -36,6 +36,7 @@
 * [RANDOM IMAGES](#random-images)
 * [HEROKU RELATED](#heroku-and-git-related-plugins)
 * [OTHER PLUGINS](#other-usefull-plugins) 
+* 📌 [NON-MD PLUGINS](#non-md-plugins)
 
 ### FOR PLUGIN EDITING TUTORIAL CLICK BELOW
  <a href="https://youtu.be/9PgSQzQn5Qc"><img src="https://img.shields.io/badge/-watch%20video-critical?style=for-the-badge&logo=youtube&logoColor=white">
@@ -55,6 +56,7 @@ ___________________________________
 <h3 align="center">LYFE00011 MD BOT PLUGINS </h1><a href="https://github.com/mask-sir/LYFE-PLUGINLISTS"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-67-green">
 
 _________________________________________________
+**[⬆ Back to Index](#index)**
 ### EDITOR-PLUGINS😍📌
 <h4 align="center">  ᐉBANNER TEPLATES  </h1>
 
@@ -150,6 +152,7 @@ Example
 <br />
 
 __________________________________
+**[⬆ Back to Index](#index)**
 ### FORWARD PLUGINS🍒🔥
 <h4 align="center">  ᐉATS(zmfor)  </h1>
  CONVERTED BY :<a href="http://www.github.com/alen-kenz">ALEN</a>
@@ -185,6 +188,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 WHATSAPP-BOT-MD
 
 
 __________________________________
+**[⬆ Back to Index](#index)**
 ### WHATSAPP RELATED PLUGINS💚
 <h4 align="center">  ᐉDM  </h1>
 
@@ -343,6 +347,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
 <br />
 <br />
 _________________________________________________
+**[⬆ Back to Index](#index)**
 ### ANIME PLUGINS👽🌈 
 <h4 align="center">  ᐉ RANDOM ANIME VIDEOS  </h1>
 
@@ -430,6 +435,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
 <br />
 
 _________________________________________________
+**[⬆ Back to Index](#index)**
 ### DOWNLOAD AND CONVERTER PLUGINS📩 
 <h4 align="center">  ᐉGITHUB REPOSITORY DOWNLOADER  </h1>
 
@@ -569,6 +575,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
 <br />
 <br />
 _________________________________________________
+**[⬆ Back to Index](#index)**
 ### FUN AND PRANK PLUGINS👻
 
 <h4 align="center">  ᐉTINTU  </h1>
@@ -611,6 +618,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
 
 
 _________________________________________________
+**[⬆ Back to Index](#index)**
 ### STALKER AND SEARCH PLUGINS🔎🔎
 
 <h4 align="center">  ᐉMOBILE INFO  </h1>
@@ -759,6 +767,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 WHATSAPP-BOT-MD
 <br />
 
 _________________________________________________
+**[⬆ Back to Index](#index)**
 ### RANDOM IMAGES😍📌🎰
 
 <h4 align="center">  ᐉMOUNTAIN  </h1>
@@ -825,6 +834,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
 
 
 _________________________________________________
+**[⬆ Back to Index](#index)**
 ### HEROKU AND GIT RELATED PLUGINS📍
 
 <h4 align="center">  ᐉSDYNO  </h1>
@@ -885,6 +895,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
 <br />
 
 _________________________________________________
+**[⬆ Back to Index](#index)**
 ### OTHER USEFULL PLUGINS🤔⭐
 
 <h4 align="center">  ᐉLIVE  </h1>
@@ -946,7 +957,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
 
 
 __________________________________
-<h3 align="center"> NON-MD PLUGINS <h1 l>
+### NON-MD PLUGINS 
 <a href="https://github.com/mask-sir/LYFE-PLUGINLISTS"><img src="https://img.shields.io/badge/TOTAL%20NON%20MD%20PLUGINS%20%3D-53-blue">
 
 _________________________________________________
