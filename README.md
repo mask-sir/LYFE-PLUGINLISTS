@@ -23,10 +23,17 @@
 </p>
 </details>
 
-## Index
-
-* [EDITOR](#editor-plugins)
+## INDEX
+* [EDITOR](#editor-plugins) 
 * [FORWARD PLUGINS](#forward-plugins)
+* [WHATSAPP RELATED](#whatsapp-related-plugins)
+* [ANIME](#anime-plugins) 
+* [DOWNLOAD](#download-and-converter-plugins)
+* [CONVERTERS](#download-and-converter-plugins)
+* [FUN & PRANK](#fun-and-prank-plugins)
+* [STALKER](#stalk-and-search-plugins)
+* [SEARCH](#stalk-and-search-plugins) 
+* [RANDOM](#random-images) 
 
 ### FOR PLUGIN EDITING TUTORIAL CLICK BELOW
  <a href="https://youtu.be/9PgSQzQn5Qc"><img src="https://img.shields.io/badge/-watch%20video-critical?style=for-the-badge&logo=youtube&logoColor=white">
@@ -176,7 +183,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 WHATSAPP-BOT-MD
 
 
 __________________________________
-<h3 align="center"> 💚WHATSAPP RELATED PLUGINS 💚<h1 />
+### WHATSAPP RELATED PLUGINS💚
 <h4 align="center">  ᐉDM  </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
@@ -334,7 +341,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
 <br />
 <br />
 _________________________________________________
-<h3 align="center"> ANIME RELATED 👽🌈 <h1 />
+### ANIME PLUGINS👽🌈 
 <h4 align="center">  ᐉ RANDOM ANIME VIDEOS  </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
@@ -421,7 +428,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
 <br />
 
 _________________________________________________
-<h3 align="center"> DOWNLOAD AND CONVERTER PLUGINS📩 <h1 />
+### DOWNLOAD AND CONVERTER PLUGINS📩 
 <h4 align="center">  ᐉGITHUB REPOSITORY DOWNLOADER  </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
@@ -560,7 +567,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
 <br />
 <br />
 _________________________________________________
-<h3 align="center"> FUN AND PRANK PLUGINS👻<h1 />
+### FUN AND PRANK PLUGINS👻
 
 <h4 align="center">  ᐉTINTU  </h1>
 
@@ -602,7 +609,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
 
 
 _________________________________________________
-<h3 align="center"> STALK AND OTHER SEARCH PLUGINS 🔎🔎<h1 />
+### STALK AND SEARCH PLUGINS 🔎🔎
 
 <h4 align="center">  ᐉMOBILE INFO  </h1>
 
@@ -750,7 +757,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 WHATSAPP-BOT-MD
 <br />
 
 _________________________________________________
-<h3 align="center"> RANDOM IMAGES😍📌🎰<h1 />
+### RANDOM IMAGES😍📌🎰
 
 <h4 align="center">  ᐉMOUNTAIN  </h1>
 
