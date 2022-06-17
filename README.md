@@ -23,7 +23,12 @@
 </p>
 </details>
 
+<details>
+<summary>📜 𝗜𝗡𝗗𝗘𝗫 📜 </summary>
+<p>
+
 ## INDEX
+
 * [EDITOR](#editor-plugins) 
 * [FORWARD PLUGINS](#forward-plugins)
 * [WHATSAPP RELATED](#whatsapp-related-plugins)
@@ -39,6 +44,8 @@
 * 📌 [NON-MD PLUGINS](#non-md-plugins)
 
 [ʟʏғᴇ ɢɪᴛ-ᴍᴅ <a href="https://github.com/lyfe00011/whatsapp-bot-md">ᴠɪsɪᴛ <a/> ]<br />
+</p>
+</details>
 
 ### FOR PLUGIN EDITING TUTORIAL CLICK BELOW
  <a href="https://youtu.be/9PgSQzQn5Qc"><img src="https://img.shields.io/badge/-watch%20video-critical?style=for-the-badge&logo=youtube&logoColor=white">
