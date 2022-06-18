@@ -38,7 +38,7 @@
 * [FUN & PRANK](#fun-and-prank-plugins)
 * [STALKER](#stalker-and-search-plugins)
 * [SEARCH](#stalker-and-search-plugins) 
-* [RANDOM IMAGES](#random-images)
+* [RANDOM ](#random-images-and-videos)
 * [HEROKU RELATED](#heroku-and-git-related-plugins)
 * [OTHER PLUGINS](#other-usefull-plugins) 
 * 📌 [NON-MD PLUGINS](#non-md-plugins)
@@ -62,7 +62,7 @@ _____________________________|
 <h4 align="center">➥ PLUGINS</h1>
 __________________________________
 ___________________________________
-<h3 align="center">LYFE00011 MD BOT PLUGINS </h1><a href="https://github.com/mask-sir/LYFE-PLUGINLISTS"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-67-green">
+<h3 align="center">LYFE00011 MD BOT PLUGINS </h1><a href="https://github.com/mask-sir/LYFE-PLUGINLISTS"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-69-green">
 
 _________________________________________________
 **[⬆ Back to Index](#index)**
@@ -777,8 +777,32 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 WHATSAPP-BOT-MD
 
 _________________________________________________
 **[⬆ Back to Index](#index)**
-### RANDOM IMAGES😍📌🎰
+### RANDOM IMAGES AND VIDEOS😍📌🎰
 
+<h4 align="center">  ᐉ RANDOM WHATSAPP STATUS </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
+
+
+```js
+https://gist.github.com/mask-sir/2ee22fc1846cf6e1630af4c64e4d0565
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : RANDOM WHATSAPP STATUS SENDER <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
+<br />
+<br />
+<h4 align="center">  ᐉ XD </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
+
+
+```js
+https://gist.github.com/mask-sir/cc8c22c484fc91669ad3f46442b8d32e
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : RANDOM GIRLS DANCE VIDEOS <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
+<br />
+<br />
 <h4 align="center">  ᐉMOUNTAIN  </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
