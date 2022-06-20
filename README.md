@@ -62,7 +62,7 @@ _____________________________|
 <h4 align="center">➥ PLUGINS</h1>
 __________________________________
 ___________________________________
-<h3 align="center">LYFE00011 MD BOT PLUGINS </h1><a href="https://github.com/mask-sir/LYFE-PLUGINLISTS"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-72-green">
+<h3 align="center">LYFE00011 MD BOT PLUGINS </h1><a href="https://github.com/mask-sir/LYFE-PLUGINLISTS"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-74-green">
 
 _________________________________________________
 **[⬆ Back to Index](#index)**
@@ -815,6 +815,18 @@ _________________________________________________
 **[⬆ Back to Index](#index)**
 ### RANDOM IMAGES AND VIDEOS😍📌🎰
 
+<h4 align="center">  ᐉ🐔  </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/MASK-SIR">MASK SER</a>
+
+
+```js
+https://gist.github.com/mask-sir/8f0b5b442f40115b6d220b6eedd7ba5c
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :RANDOM GIRLS PHOTOS <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
+<br />
+<br />
 <h4 align="center">  ᐉ RANDOM WHATSAPP STATUS </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
@@ -906,6 +918,18 @@ _________________________________________________
 **[⬆ Back to Index](#index)**
 ### HEROKU AND GIT RELATED PLUGINS📍
 
+<h4 align="center">  ᐉMENU MD  </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
+
+
+```js
+https://gist.github.com/mask-sir/9f978bfb314d0031036f942dd1ef3bde/raw
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :MENU OF LYFE MD BOT <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
+<br />
+<br />
 <h4 align="center">  ᐉSDYNO  </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/lyfe00011">LYFE</a>
