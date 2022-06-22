@@ -62,7 +62,7 @@ _____________________________|
 <h4 align="center">➥ PLUGINS</h1>
 __________________________________
 ___________________________________
-<h3 align="center">LYFE00011 MD BOT PLUGINS </h1><a href="https://github.com/mask-sir/LYFE-PLUGINLISTS"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-74-green">
+<h3 align="center">LYFE00011 MD BOT PLUGINS </h1><a href="https://github.com/mask-sir/LYFE-PLUGINLISTS"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-75-green">
 
 _________________________________________________
 **[⬆ Back to Index](#index)**
@@ -458,6 +458,18 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
 _________________________________________________
 **[⬆ Back to Index](#index)**
 ### DOWNLOAD AND CONVERTER PLUGINS📩 
+<h4 align="center">  ᐉREADMORE GENERATOR  </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
+
+
+```js
+https://gist.github.com/mask-sir/1c5b0872d47e8e31ce18bda7984e1ac7
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : READMORE GENERATOR <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
+<br />
+<br />
 <h4 align="center">  ᐉGITHUB REPOSITORY DOWNLOADER  </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
