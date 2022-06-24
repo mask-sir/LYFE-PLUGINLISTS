@@ -85,7 +85,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
 
 
 ```js
-https://gist.github.com/ajithaajitha952/d86c83c15bc3ffd12d963ff0e694e64a/raw
+https://gist.github.com/mask-sir/a5602867f5dbcfa13390955cda978ef5
 ```
 ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : TEXT TO LOGO  <br /> 
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
