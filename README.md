@@ -265,7 +265,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
 
 
 ```js
-https://gist.github.com/mask-sir/91050d13b5dd11029c66ba49f738e5c0
+https://gist.github.com/mask-sir/a9ee197e0c91b272e28c6aaaf3400aef
 ```
 ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : CONVERT EMOJI TO PNG <br /> 
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
