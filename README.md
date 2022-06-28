@@ -62,7 +62,7 @@ _____________________________|
 <h4 align="center">➥ PLUGINS</h1>
 __________________________________
 ___________________________________
-<h3 align="center">LYFE00011 MD BOT PLUGINS </h1><a href="https://github.com/mask-sir/LYFE-PLUGINLISTS"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-81-green">
+<h3 align="center">LYFE00011 MD BOT PLUGINS </h1><a href="https://github.com/mask-sir/LYFE-PLUGINLISTS"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-84-green">
 
 _________________________________________________
 **[⬆ Back to Index](#index)**
@@ -187,6 +187,18 @@ Example
 __________________________________
 **[⬆ Back to Index](#index)**
 ### FORWARD PLUGINS🍒🔥
+<h4 align="center">  ᐉMFORWARD(NO-JID)  </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
+
+
+```js
+https://gist.github.com/mask-sir/8fcca14fbc72292aeca639d38bd1037c/raw
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
+<br />
+<br />
 <h4 align="center">  ᐉATS(zmfor)  </h1>
  CONVERTED BY :<a href="http://www.github.com/alen-kenz">ALEN</a>
 
@@ -223,6 +235,18 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 WHATSAPP-BOT-MD
 __________________________________
 **[⬆ Back to Index](#index)**
 ### WHATSAPP RELATED PLUGINS💚
+<h4 align="center">  ᐉOWNER  </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
+
+
+```js
+https://gist.github.com/mask-sir/dfc244f2e9b971ceb5f6138c89e7a168/raw
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : OWNER VCARD <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
+<br />
+<br />
 <h4 align="center">  ᐉ STATUS SENDER </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/souravkl11">SOURAVKL11</a>
@@ -1000,7 +1024,18 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
 _________________________________________________
 **[⬆ Back to Index](#index)**
 ### HEROKU AND GIT RELATED PLUGINS📍
+<h4 align="center">  ᐉSIMPLE UPDATER  </h1>
 
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
+
+
+```js
+https://gist.github.com/mask-sir/2a3265212efa2e814546f29601808f58/raw
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : UPDATE CHECKS AND SIMPLE INTERFACE <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
+<br />
+<br />
 <h4 align="center">  ᐉMENU MD  </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
