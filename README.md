@@ -530,6 +530,18 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
 _________________________________________________
 **[⬆ Back to Index](#index)**
 ### DOWNLOAD AND CONVERTER PLUGINS📩 
+<h4 align="center">  ᐉFAKE AUDIO SIZE CHANGER  </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mehafil07">M E H 4 F I L</a>
+
+
+```js
+https://gist.github.com/mask-sir/a728272f0d66aa5ff45e5a91caa66b06
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : change audio size(fake size <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
+<br />
+<br />
 <h4 align="center">  ᐉTOUP & TOLOW  </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
