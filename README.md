@@ -68,6 +68,7 @@
 
 >__________________________________
 ADDED
+`msfor`
 ` AF`
 `adurtion`
 `nid`
@@ -81,7 +82,7 @@ ADDED
 >___________________________________
 
 
-<h3 align="center">LYFE00011 MD BOT PLUGINS </h1><a href="https://github.com/mask-sir/LYFE-PLUGINLISTS"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-90-green">
+<h3 align="center">LYFE00011 MD BOT PLUGINS </h1><a href="https://github.com/mask-sir/LYFE-PLUGINLISTS"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-91-green">
 
 _________________________________________________
 **[⬆ Back to Index](#index)**
@@ -206,6 +207,25 @@ Example
 __________________________________
 **[⬆ Back to Index](#index)**
 ### FORWARD PLUGINS🍒🔥
+<h4 align="center">  ᐉCUSTOM FORWARD (AD VIA & LINK PRVIEW)  </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/MEHAFIL07">M E H 4 F I L</a>
+
+
+```js
+https://gist.github.com/Mehafil07/a688718fdcbed06807c98369d907c147
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :FULLY CUSTOMISABLE FORWARD WITH VIA AD REPLY,DOUBLE ORDER MSG,LINK PREVIEW<br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
+<br />
+<br />
+**Use by Given format** <br/>
+Example
+```js
+.msfor ɪͥᴛͭsᷤ ͢ᴍͫᴇͤᡃ⃝Manu࿐⁩;⇆ㅤ ||◁ㅤ❚❚ㅤ▷||ㅤ ↻;01:06 ━━━━⬤─────── 04:05;111111111;111111111111111111;https://instagram.com;https://wa.me/917356159070;https://i.imgur.com/soghNME.jpeg;https://i.imgur.com/Y1MNRWF.jpeg;120363044083247727@g.us
+```
+<br />
+<br />
 <h4 align="center">  ᐉCUSTOM FORWARD (AD VIA)  </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
