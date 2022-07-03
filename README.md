@@ -54,14 +54,33 @@
 
 ᴄʟɪᴄᴋ ᴡᴀ ʟᴏɢᴏ ᴛᴏ ᴊᴏɪɴ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 👇 
 <br> [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/Dimr0UROoRGFL58vhGbO7L)
-  <div align="center"
-_____________________________
-## WHATS NEW                 |
-1)repo downloade (16/06/2022)          |
-_____________________________|      
+  <div align="center"  
 <h4 align="center">➥ PLUGINS</h1>
-__________________________________
-___________________________________
+
+
+<details>
+
+>__________________________________
+
+
+<summary>🤔WHAT'S NEW[JULY]??</summary>
+<p>
+
+>__________________________________
+ADDED
+` AF`
+`adurtion`
+`nid`
+`asize`
+>___________________________________
+
+
+</p>
+</details>
+
+>___________________________________
+
+
 <h3 align="center">LYFE00011 MD BOT PLUGINS </h1><a href="https://github.com/mask-sir/LYFE-PLUGINLISTS"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-90-green">
 
 _________________________________________________
