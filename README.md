@@ -300,7 +300,7 @@ __________________________________
 
 
 ```js
-https://gist.github.com/mask-sir/f7e2e3dc7e27f57b6b93b6ef03b675e7/raw
+https://gist.github.com/mask-sir/f7e2e3dc7e27f57b6b93b6ef03b675e7
 ```
 ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :MAKE CUSTOM VCARD <br /> 
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
