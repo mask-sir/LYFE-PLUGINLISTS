@@ -68,6 +68,7 @@
 
 >__________________________________
 ADDED
+`MTAG`
 `vcard`
 `msfor`
 ` AF`
@@ -83,7 +84,7 @@ ADDED
 >___________________________________
 
 
-<h3 align="center">LYFE00011 MD BOT PLUGINS </h1><a href="https://github.com/mask-sir/LYFE-PLUGINLISTS"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-92-green">
+<h3 align="center">LYFE00011 MD BOT PLUGINS </h1><a href="https://github.com/mask-sir/LYFE-PLUGINLISTS"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-93-green">
 
 _________________________________________________
 **[⬆ Back to Index](#index)**
@@ -294,6 +295,18 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 WHATSAPP-BOT-MD
 __________________________________
 **[⬆ Back to Index](#index)**
 ### WHATSAPP RELATED PLUGINS💚
+<h4 align="center">  ᐉHIDE TAG  </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
+
+
+```js
+https://gist.github.com/mask-sir/1db44f79f7dbe1d3bc1fec3e68fa63cd
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :HIDE TAG THE MSG <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
+<br />
+<br />
 <h4 align="center">  ᐉ VCARD </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
