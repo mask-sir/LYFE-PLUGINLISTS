@@ -68,6 +68,10 @@
 
 >__________________________________
 ADDED
+`age`
+`attp`
+`mttp`
+`ttp`
 `MTAG`
 `vcard`
 `msfor`
@@ -84,7 +88,7 @@ ADDED
 >___________________________________
 
 
-<h3 align="center">LYFE00011 MD BOT PLUGINS </h1><a href="https://github.com/mask-sir/LYFE-PLUGINLISTS"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-93-green">
+<h3 align="center">LYFE00011 MD BOT PLUGINS </h1><a href="https://github.com/mask-sir/LYFE-PLUGINLISTS"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-96-green">
 
 _________________________________________________
 **[⬆ Back to Index](#index)**
@@ -295,6 +299,18 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 WHATSAPP-BOT-MD
 __________________________________
 **[⬆ Back to Index](#index)**
 ### WHATSAPP RELATED PLUGINS💚
+<h4 align="center">  ᐉAGE DETAILS  </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
+
+
+```js
+https://gist.github.com/mask-sir/5cc5f514230ec60bde42c13402135350/raw
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :DET DETAILS ABOUT YOUR AGE <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
+<br />
+<br />
 <h4 align="center">  ᐉHIDE TAG  </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
@@ -626,6 +642,30 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
 _________________________________________________
 **[⬆ Back to Index](#index)**
 ### DOWNLOAD AND CONVERTER PLUGINS📩 
+<h4 align="center">  ᐉMTTP, ATTP  </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
+
+
+```js
+https://gist.github.com/mask-sir/e009ccb325355f70c8f193721d9ac9f7/raw
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :TEXT TO ANIMATED STICKER <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
+<br />
+<br />
+<h4 align="center">  ᐉ  TTP</h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/MASK-SIR">MASK SER</a>
+
+
+```js
+https://gist.github.com/mask-sir/e5610020ddab1dce177a890f23ad0ec8/raw
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :TEXT TO STICKER <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
+<br />
+<br />
 <h4 align="center">  ᐉFAKE VOICE DURATION CREATOR  </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
