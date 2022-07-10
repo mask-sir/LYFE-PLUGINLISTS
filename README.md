@@ -68,6 +68,7 @@
 
 >__________________________________
 ADDED
+`afd`
 `areact`
 `murl`
 `age`
@@ -90,7 +91,7 @@ ADDED
 >___________________________________
 
 
-<h3 align="center">LYFE00011 MD BOT PLUGINS </h1><a href="https://github.com/mask-sir/LYFE-PLUGINLISTS"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-98-green">
+<h3 align="center">LYFE00011 MD BOT PLUGINS </h1><a href="https://github.com/mask-sir/LYFE-PLUGINLISTS"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-99-green">
 
 _________________________________________________
 **[⬆ Back to Index](#index)**
@@ -215,6 +216,17 @@ Example
 __________________________________
 **[⬆ Back to Index](#index)**
 ### FORWARD PLUGINS🍒🔥
+<h4 align="center">  ᐉ SIMPLE FORWARD </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
+
+```js
+https://gist.github.com/mask-sir/87666e3875ddbff3ab743a8f3fb4bf02/raw
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : SIMPLE FORWARD, MESSAGE VIA AD,RANDOM IMAGE <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
+<br />
+<br />
 <h4 align="center">  ᐉCUSTOM FORWARD (AD VIA & LINK PRVIEW)  </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/MEHAFIL07">M E H 4 F I L</a>
