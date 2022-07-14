@@ -224,7 +224,7 @@ __________________________________
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
 
 ```js
-https://gist.github.com/mask-sir/87666e3875ddbff3ab743a8f3fb4bf02/raw
+https://gist.github.com/mask-sir/8f3f1f952d9097e17a7f3493cdce4520
 ```
 ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : SIMPLE FORWARD, MESSAGE VIA AD,RANDOM IMAGE <br /> 
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
