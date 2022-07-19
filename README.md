@@ -102,7 +102,7 @@ _________________________________________________
 ### EDITOR-PLUGINS😍📌
 <h4 align="center">  ᐉ EPHOTO </h1>
 
- ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/lyfe00011">LYFE</a>
 
 ```js
 https://gist.github.com/lyfe00011/1d0d66838989a400c710c1ff19479c09
@@ -764,13 +764,13 @@ https://gist.github.com/mask-sir/2104d17dec85e3c6293aecca051cb50b
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
 <br />
 <br />
-<h4 align="center">  ᐉFAKE AUDIO SIZE CHANGER  </h1>
+<h4 align="center">  ᐉFAKE MEDIA SIZE</h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mehafil07">M E H 4 F I L</a>
 
 
 ```js
-https://gist.github.com/mask-sir/a728272f0d66aa5ff45e5a91caa66b06
+https://gist.github.com/mask-sir/b470d1c15780952bbb0e7810fecefc34/raw
 ```
 ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : change audio size(fake size <br /> 
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
