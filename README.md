@@ -68,6 +68,7 @@
 
 >__________________________________
 ADDED
+`ephoto`
 `cs`
 `banchat`
 `button`
@@ -94,11 +95,22 @@ ADDED
 >___________________________________
 
 
-<h3 align="center">LYFE00011 MD BOT PLUGINS </h1><a href="https://github.com/mask-sir/LYFE-PLUGINLISTS"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-102-green">
+<h3 align="center">LYFE00011 MD BOT PLUGINS </h1><a href="https://github.com/mask-sir/LYFE-PLUGINLISTS"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-103-green">
 
 _________________________________________________
 **[⬆ Back to Index](#index)**
 ### EDITOR-PLUGINS😍📌
+<h4 align="center">  ᐉ EPHOTO </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
+
+```js
+https://gist.github.com/lyfe00011/1d0d66838989a400c710c1ff19479c09
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :EPHOTO TEXT MAKER <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
+<br />
+<br />
 <h4 align="center">  ᐉTEXT TO PHOTO MAKER  </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/ajithaajitha952">NIKHIL SER</a>
