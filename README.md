@@ -68,6 +68,7 @@
 
 >__________________________________
 ADDED
+`PM BLOCKER`
 `ephoto`
 `cs`
 `banchat`
@@ -328,6 +329,17 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 WHATSAPP-BOT-MD
 __________________________________
 **[⬆ Back to Index](#index)**
 ### WHATSAPP RELATED PLUGINS💚
+<h4 align="center">  ᐉ PM BLOCKER </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
+
+```js
+https://gist.github.com/mask-sir/e29a2211debd5d8a232abddbf5d4c50d
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :BLOCKS EVERYONE WHO CAME PERSONAL CHATS <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
+<br />
+<br />
 
 <h4 align="center">  ᐉ BUTTON </h1>
 
