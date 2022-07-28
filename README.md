@@ -68,6 +68,7 @@
 
 >__________________________________
 ADDED
+`CKICK`
 `COMMON`
 `diff`
 `pmbc`
@@ -104,7 +105,7 @@ ADDED
 >___________________________________
 
 
-<h3 align="center">LYFE00011 MD BOT PLUGINS </h1><a href="https://github.com/mask-sir/LYFE-PLUGINLISTS"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-111-green">
+<h3 align="center">LYFE00011 MD BOT PLUGINS </h1><a href="https://github.com/mask-sir/LYFE-PLUGINLISTS"><img src="https://img.shields.io/badge/TOTAL%20MD%20PLUGINS%20%3D-112-green">
 
 _________________________________________________
 **[⬆ Back to Index](#index)**
@@ -348,6 +349,17 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 WHATSAPP-BOT-MD
 __________________________________
 **[⬆ Back to Index](#index)**
 ### WHATSAPP RELATED PLUGINS💚
+<h4 align="center">  ᐉ COMMON KICK </h1>
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/MASK-SIR"> MASK SER</a>
+
+```js
+https://gist.github.com/mask-sir/a91b8e45e9344300c33c7d5884127ebc
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : REMOVE COMMON MEMBER'S IN TWO GROUP <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
+<br />
+<br />
 <h4 align="center">  ᐉ COMMON & DIFF </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/MASK-SIR">MASK SER</a>
