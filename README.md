@@ -860,6 +860,19 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
 _________________________________________________
 **[⬆ Back to Index](#index)**
 ### DOWNLOAD AND CONVERTER PLUGINS📩 
+   <h4 align="center">  ᐉ G-DRIVE DOWNLOADER </h1>
+   
+   ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/xIKRATOSx">xIKRATOSx</a>
+   
+   
+   ```js
+https://gist.github.com/xIKRATOSx/a962991326b9e5f4f82a4698c1e5f46f/raw
+```
+ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : DOWNLOAD GOOGLE DRIVE FILES <br /> 
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
+<br />
+<br />
+   
 <h4 align="center">  ᐉ STICKER DOWNLOADER </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
